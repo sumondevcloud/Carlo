@@ -1,0 +1,7119 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap);
+
+.Discovery-crypto-alignments,
+.private-blocking-content,
+.white-label-centralized-content {
+    hyphens: auto !important
+}
+
+a,
+a:hover {
+    text-decoration: none !important;
+    color: #fff
+}
+
+.read-more-fontfamily h1 span,
+.read-more-fontfamily h3 span,
+.read-more-fontfamily p,
+.read-more-fontfamily span {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important
+}
+
+iframe {
+    margin-right: 100px !important
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0
+}
+
+body,
+html {
+    position: relative;
+    height: 100%
+}
+
+body {
+    font-family: Poppins, sans-serif;
+    background: #000;
+    color: #fff;
+    height: 100
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 0
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4e4e4e67;
+    border-radius: 10px
+}
+
+.contact-form-new-section input,
+.contact-form-new-section select,
+.contact-form-new-section textarea {
+    background-color: transparent;
+    border: none;
+    outline: 0;
+    color: #fff;
+    box-shadow: none
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #4e4e4e67
+}
+
+.top-home-banner-section .swiper,
+img {
+    width: 100%;
+    height: 100%
+}
+
+.fw-500 {
+    font-weight: 500 !important
+}
+
+.fw-600 {
+    font-weight: 600 !important
+}
+
+.fs-13 {
+    font-size: 13px
+}
+
+.fs-14 {
+    font-size: 14px
+}
+
+.text-justify {
+    text-align: justify
+}
+
+select {
+    box-shadow: none !important
+}
+
+.top-home-banner-section .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover
+}
+
+.updown-animation {
+    animation: 8s linear 1s infinite reverse updown
+}
+
+@keyframes updown {
+
+    0%,
+    100% {
+        transform: translateY(0)
+    }
+
+    50% {
+        transform: translateY(-12%)
+    }
+}
+
+.new-header-padding-sec,
+.top-home-banner-section .row {
+    padding-top: 100px
+}
+
+.banner-middle-section {
+    position: relative;
+    z-index: -1
+}
+
+@keyframes clientglowanim {
+
+    0%,
+    100% {
+        outline-width: 0
+    }
+
+    50% {
+        outline-width: 8px
+    }
+}
+
+.new-footer-section {
+    padding-bottom: 100px
+}
+
+.new-top-banner-section-4 .get-demo-services-button {
+    border: 1px solid #ffffff23 !important;
+    animation: 1.4s ease-out infinite glow3
+}
+
+.new-top-banner-section-5 .get-demo-services-button {
+    border: 1px solid #ffffff23 !important;
+    animation: 1.4s ease-out infinite glow2
+}
+
+.top-navbar-talk-experts-btn {
+    animation: 1.4s ease-out infinite glow1
+}
+
+@keyframes glow1 {
+    0% {
+        box-shadow: 0 0 0 0 #97faed6c
+    }
+
+    50% {
+        box-shadow: 0 0 30px 0 #97faed6c
+    }
+}
+
+@keyframes glow2 {
+    0% {
+        box-shadow: 0 0 0 0 #672389
+    }
+
+    50% {
+        box-shadow: 0 0 30px 0 #672389
+    }
+}
+
+@keyframes glow3 {
+    0% {
+        box-shadow: 0 0 0 0 #583458
+    }
+
+    50% {
+        box-shadow: 0 0 40px 0 #583458
+    }
+}
+
+.binance-new-social-icons-section-1:hover,
+.binance-new-social-icons-section-1:hover .binance-new-social-icons-1,
+.binance-new-social-icons-section-2:hover,
+.binance-new-social-icons-section-2:hover .binance-new-social-icons-2 {
+    transform: translateZ(80px) translateY(-5px) rotateX(15deg) rotateY(15deg)
+}
+
+@keyframes nftnewanim {
+    0% {
+        box-shadow: 0 0 0 0 #cacaca46
+    }
+
+    50% {
+        box-shadow: 0 0 30px 0 #cacaca46
+    }
+}
+
+.contact-form-new-section textarea {
+    width: 100%
+}
+
+.contact-form-new-section option {
+    background-color: #000
+}
+
+.border-bottom-blue {
+    border-bottom: 1px solid #ffffff69
+}
+
+textarea {
+    resize: none
+}
+
+.swiper-button-next:focus-visible {
+    border: none !important;
+    outline: 0 !important
+}
+
+.swiper-button-prev:focus-visible {
+    border: none !important;
+    outline: 0 !important
+}
+
+.top-binance-new-banner-11 .card {
+    border: 1px solid #ffffff9d;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #d1d1d111;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px)
+}
+
+.top-binance-new-banner-11 .card:hover {
+    background: radial-gradient(#01c0ff9c, #01c0ff00)
+}
+
+.css-border-animation {
+    width: fit-content
+}
+
+.css-border-animation::after {
+    content: '';
+    border-bottom: 3px solid #f3ad4e;
+    width: 100%;
+    display: block;
+    animation: 1.4s ease-out infinite cssborderani
+}
+
+@keyframes cssborderani {
+    0% {
+        width: 0%
+    }
+
+    50% {
+        width: 100%
+    }
+}
+
+@media all and (min-width:992px) {
+    .top-nft-new-banner-5-1 .swiper-slide {
+        height: 300px !important
+    }
+
+    .new-custom-web-image-1 {
+        width: 20px;
+        height: 20px;
+        margin-right: 4px
+    }
+
+    .new-custom-tech-tools-section .card {
+        background: #ffffff1e;
+        border: 1px solid #ffffff21;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-bottom: 2px solid #01beff
+    }
+
+    .new-custom-tech-tools-section .card:hover .card-header {
+        background: #01beff
+    }
+
+    .new-custom-tech-tools-section .card-header {
+        border-bottom: 1px solid #ffffff21;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px
+    }
+
+    .binance-new-text-1,
+    .binance-new-text-3,
+    .new-banner-text-15,
+    .new-banner-text-2,
+    .new-banner-text-3,
+    .new-banner-text-5,
+    .new-top-button-3,
+    .nft-new-text-1,
+    .post-item__meta--category,
+    .service-tab-hidden-section li,
+    .slider-button-1,
+    .slider-text-1,
+    .slider-text-2,
+    .slider-text-3,
+    .top-binance-new-banner-4 .swiper p,
+    .top-navbar-navlink,
+    .top-nft-new-heading-4 {
+        text-transform: uppercase
+    }
+
+    .footer-typo-new a:hover i,
+    .footer-typo-new p:hover i,
+    .new-social-fixed-text-2:hover i {
+        left: 2px;
+        opacity: 1
+    }
+
+    .new-denc-text-1,
+    .nft-new-banner-button-1:hover {
+        color: #fff !important
+    }
+
+    .top-decentralized-exchange-new-banner-section {
+        background-image: url("https://assets.clarisco.com/images/new-decentralized-exchange/decentralized-exchange-company-banner-1.webp");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        object-fit: cover
+    }
+
+    .top-blockchain-development-new-banner-section {
+        background-image: url("https://assets.clarisco.com/images/new-blockchain-development/blockchain-development-company-banner-1.webp");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        object-fit: cover
+    }
+
+    .read-more-fontfamily h2 span {
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+        font-size: 2.5rem !important;
+        line-height: 2
+    }
+
+    .diclaimer-content-button,
+    .top-home-banner-section .swiper-button-next:after,
+    .top-home-banner-section .swiper-button-prev:after {
+        font-size: 18px
+    }
+
+    .diclaimer-content {
+        padding: 4px 10px;
+        color: #000;
+        width: 800px;
+        position: fixed;
+        bottom: 70px;
+        left: 0;
+        right: 0;
+        z-index: 999;
+        margin: auto;
+        border-radius: 4px
+    }
+
+    .top-p2pexchange-exchange-new-banner-1 {
+        background-image: url("https://assets.clarisco.com/images/p2p-exchange/top-p2pexchange-new-banner-bg-1-1.webp");
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+        background-position: center
+    }
+
+    .navbar .tab-content li:hover {
+        text-decoration: underline
+    }
+
+    .top-navbar-hover-new-design {
+        position: relative
+    }
+
+    .top-navbar-hover-new-design:before {
+        bottom: 0;
+        content: "";
+        display: block;
+        height: 1px;
+        left: 50%;
+        position: absolute;
+        background: #fff;
+        transition: width .3s, left .3s;
+        width: 0
+    }
+
+    .top-navbar-hover-new-design:hover:before {
+        width: 94%;
+        left: 0
+    }
+
+    .post-item__meta--category {
+        display: inline-block;
+        background-color: #ffcf2a;
+        font-size: .7rem;
+        letter-spacing: .01rem;
+        font-weight: 700;
+        padding: 2px 10px;
+        color: #000;
+        border-radius: 20px
+    }
+
+    .sidebar {
+        height: 100%;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 5%
+    }
+
+    .nomatch-section img {
+        width: 80%;
+        height: 80%
+    }
+
+    .cta-background-image-height {
+        height: 200px
+    }
+
+    .about-us-icon-image img,
+    .contact-us-icon-image img,
+    .defi-icons,
+    .home-image-size img,
+    .social-tokens-image img,
+    .whitelabel-multichain-image img,
+    .whitelabel-nft-image img,
+    .whitelabel-nft-image-clone-app img {
+        width: 50px;
+        height: 50px
+    }
+
+    .border-color-nav {
+        border: 1px solid #ffcf2a !important
+    }
+
+    .img-width,
+    .techstack .card img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto
+    }
+
+    .crypto-exchange-styling {
+        border: 5px solid #fff;
+        border-radius: 15px
+    }
+
+    .hire-image-size img,
+    .team-image-size img {
+        width: 64px;
+        height: 64px
+    }
+
+    .thankyou-page-section {
+        position: relative;
+        top: -100px
+    }
+
+    .nft-new-text-4,
+    .nft-new-text-5 {
+        top: -40px;
+        position: relative;
+        text-align: center
+    }
+
+    .thankyou-icons {
+        font-size: 30px;
+        border: 1px solid #ffffff2d;
+        color: #fff;
+        padding: 20px;
+        border-radius: 50%
+    }
+
+    .thankyou-image img {
+        width: 200px
+    }
+
+    .cryptoexchange-clone-top img {
+        width: 40px;
+        height: 40px;
+        margin-bottom: 10px
+    }
+
+    .cryptoexchange-clone {
+        background: 0 0;
+        cursor: pointer;
+        border-radius: 15px;
+        position: relative;
+        padding: 5px 10px;
+        margin: 10px;
+        color: #fff;
+        border: 1px solid #fff
+    }
+
+    .top-cryptocurrency-exchange-new-banner-1,
+    .top-whitelabel-new-banner-1 {
+        background-size: 100% auto;
+        background-position: center;
+        background-repeat: no-repeat
+    }
+
+    .cryptoexchange-clone::after {
+        content: "";
+        background: #fff;
+        border-radius: 15px;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 0;
+        clip-path: circle(10% at 0% 0%);
+        transition: .3s ease-in
+    }
+
+    .crypto-img2 .card img {
+        width: 120px;
+        height: 80px
+    }
+
+    .crypto-img .card img {
+        width: 80px;
+        height: 80px
+    }
+
+    .Cryptocurrencymlmclone-image img,
+    .Demandingclone-image img,
+    .cryptocurrency-exchange-clone img,
+    .cryptocurrency-hyip-clone img,
+    .defi-clone-image img,
+    .nft-clone-image img {
+        width: 100px;
+        height: 100px
+    }
+
+    .Blockchain-Dapps-Games img {
+        width: 120px;
+        height: 120px
+    }
+
+    .contact-form-footer-business {
+        height: auto
+    }
+
+    .crypto-exchange-clone {
+        width: 62px;
+        height: 62px;
+        transition: transform .2s
+    }
+
+    .hire-right-section .card:hover .crypto-exchange-clone,
+    .hire-right-section .card:hover .hire-card-icons {
+        transform: scale(1.3)
+    }
+
+    .top-cryptocurrency-exchange-new-banner-1 {
+        background-image: url("https://assets.clarisco.com/images/cryptocurrency-exchange/top-crypto-exchange-new-banner-bg-1.webp");
+        max-width: 100%
+    }
+
+    .top-whitelabel-new-banner-1 {
+        background-image: url("https://assets.clarisco.com/images/whitelabel-exchange/top-whitelabel-new-banner-bg-1.webp")
+    }
+
+    #whitelabel-features-tabs-1,
+    #whitelabel-features-tabs-2 {
+        font-size: 1.6vw;
+        cursor: pointer
+    }
+
+    .new-top-banner-section-10,
+    .top-binance-new-banner-9,
+    .top-whitelabel-new-banner-3 {
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+
+    .top-binance-new-banner-9 .card,
+    .top-whitelabel-new-banner-3 .card {
+        border: 1px solid #ffffff9d;
+        background: 0 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        transition: 1s;
+        overflow: hidden;
+        height: 100%
+    }
+
+    .top-binance-new-banner-7 p,
+    .top-binance-new-banner-9 .card p,
+    .top-whitelabel-new-banner-3 .card p {
+        transition: 2s
+    }
+
+    .top-whitelabel-new-banner-3 .card:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        transform: translateX(-110%);
+        z-index: -9;
+        transition: transform 1s
+    }
+
+    .contact-list-bottom-new a,
+    .top-whitelabel-new-banner-3 .card:hover p {
+        color: #fff
+    }
+
+    .top-binance-new-banner-7 .card:hover:before,
+    .top-binance-new-banner-9 .card:hover:before,
+    .top-whitelabel-new-banner-3 .card:hover:before {
+        transform: translateX(0)
+    }
+
+    .top-whitelabel-new-banner-3 .nav-pills .nav-link.active,
+    .top-whitelabel-new-banner-3 .nav-pills .show>.nav-link {
+        color: #6b22ec;
+        background-color: #6b22ec
+    }
+
+    .new-whitelabel-tabs .nav {
+        background-color: #fff;
+        width: fit-content;
+        padding: 1px;
+        border-radius: 50px;
+        z-index: 99
+    }
+
+    .new-whitelabel-tabs .nav-link {
+        border-radius: 40px;
+        padding: 12px 23px;
+        color: #fff
+    }
+
+    .top-binance-new-banner-section {
+        background-image: url("https://assets.clarisco.com/images/top-binance-new-banner-bg-1-1.webp");
+        background-size: 100%;
+        background-repeat: no-repeat
+    }
+
+    .top-binance-new-banner-3,
+    .top-binance-new-banner-5,
+    .top-binance-new-banner-7,
+    .top-nft-new-banner-6 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #000 10%), linear-gradient(to right, #ffffff15, #ffffff15 10%, #000 10%);
+        background-size: 20px 20px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        overflow-y: hidden
+    }
+
+    .top-binance-new-banner-4,
+    .top-nft-new-banner-3 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        background: #10121131;
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+        backdrop-filter: blur(15px);
+        overflow-y: hidden
+    }
+
+    .top-binance-new-banner-6,
+    .top-binance-new-banner-8,
+    .top-nft-new-banner-2,
+    .top-nft-new-banner-4,
+    .top-nft-new-banner-5,
+    .top-nft-new-banner-7 {
+        background-size: 20px 20px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        overflow-y: hidden
+    }
+
+    .top-binance-new-banner-6 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #250620 10%), linear-gradient(to right, #ffffff28, #ffffff28 10%, #250620 10%)
+    }
+
+    .top-binance-new-banner-8,
+    .top-nft-new-banner-5,
+    .top-nft-new-banner-7 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #17081f 10%), linear-gradient(to right, #ffffff2c, #ffffff2c 10%, #17081f 10%)
+    }
+
+    .features-margin-nft {
+        margin-top: 80px
+    }
+
+    .nft-new-text-5 {
+        font-size: 14px;
+        margin-bottom: 10px
+    }
+
+    .nft-new-text-4 {
+        font-size: 18px;
+        margin-bottom: 0;
+        height: 60px;
+        font-weight: 700
+    }
+
+    .top-nft-new-banner-7 .card {
+        background-color: #ffffff28;
+        backdrop-filter: blur(20px);
+        border-radius: 12px;
+        padding: 10px 14px;
+        border: 1px solid #ffffff34;
+        height: 100%;
+        text-align: center;
+        display: block
+    }
+
+    .top-nft-new-banner-5 .swiper-slide,
+    .top-nft-new-banner-6 .card {
+        backdrop-filter: blur(15px);
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3)
+    }
+
+    .top-nft-new-banner-7 .card img {
+        width: 7vw;
+        height: 7vw;
+        margin: auto;
+        position: relative;
+        top: -80px
+    }
+
+    .top-nft-new-banner-7 .card:after {
+        content: "";
+        width: 60%;
+        height: 70px;
+        top: -30px;
+        right: 20%;
+        position: absolute;
+        display: inline-block;
+        z-index: -99;
+        filter: blur(100px)
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-1:after {
+        background: #00f
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-2:after {
+        background: #ff0
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-3:after {
+        background: #9ac9cd
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-4:after {
+        background: #ec34ff
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-5:after {
+        background: #14ecb7
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-6:after {
+        background: #ffab00
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-7:after {
+        background: #ff69d1
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-8:after {
+        background: #0defc5c5
+    }
+
+    .nft-new-text-3 {
+        font-size: 14px;
+        margin-bottom: 0;
+        margin-top: 16px;
+        text-align: center
+    }
+
+    .top-nft-new-banner-6 .card img {
+        width: 6vw;
+        height: auto;
+        margin: 0 auto;
+        transition: .5s ease-in-out
+    }
+
+    .top-nft-new-banner-6 .card {
+        padding: 30px 10px;
+        background: #ffffff05;
+        border: 1px solid #ffffff10;
+        height: 100%;
+        transition: .2s ease-in-out
+    }
+
+    .top-nft-new-banner-6 .card:hover img {
+        transform: scale(1.2)
+    }
+
+    .top-binance-new-banner-4 .swiper-slide:before,
+    .top-nft-new-banner-5 .swiper-slide:before {
+        display: block;
+        content: "";
+        background: #fff;
+        height: 1px;
+        position: absolute;
+        top: -50px;
+        width: 160%
+    }
+
+    .top-binance-new-banner-4 .swiper-slide:after,
+    .top-nft-new-banner-5 .swiper-slide:after {
+        display: block;
+        content: "";
+        background: #f9e000;
+        height: 20px;
+        position: absolute;
+        top: -60px;
+        width: 20px;
+        left: 20px;
+        border-radius: 50%;
+        border: 5px solid #424242 !important;
+        outline: rgb(255, 255, 255) dashed 1px
+    }
+
+    .top-binance-new-banner-4 .swiper-button-next:after,
+    .top-binance-new-banner-4 .swiper-button-prev:after,
+    .top-binance-new-banner-6 .swiper-button-next:after,
+    .top-binance-new-banner-6 .swiper-button-prev:after,
+    .top-nft-new-banner-5 .swiper-button-next:after,
+    .top-nft-new-banner-5 .swiper-button-prev:after {
+        font-size: 16px;
+        border: 1px solid #fff;
+        color: #fff;
+        padding: 6px 10px;
+        border-radius: 50%
+    }
+
+    .top-nft-new-banner-5 .swiper-slide {
+        padding: 30px 20px;
+        border: 1px solid #ffffff31;
+        border-radius: 4px;
+        background: rgba(255, 255, 255, .014);
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
+        height: 240px
+    }
+
+    .top-binance-new-banner-4 .swiper,
+    .top-nft-new-banner-5 .swiper {
+        padding-top: 80px;
+        padding-bottom: 60px
+    }
+
+    .top-binance-new-banner-4 .swiper-button-next,
+    .top-binance-new-banner-4 .swiper-button-prev,
+    .top-nft-new-banner-5 .swiper-button-next,
+    .top-nft-new-banner-5 .swiper-button-prev {
+        position: absolute;
+        top: auto !important;
+        bottom: 2px
+    }
+
+    .top-nft-new-heading-4 {
+        font-size: 20px;
+        text-align: start;
+        font-weight: 600;
+        color: #ff0;
+        height: 70px;
+        margin-bottom: 0
+    }
+
+    .top-nft-new-heading-5 {
+        font-size: 14px;
+        text-align: justify;
+        font-weight: 500
+    }
+
+    .top-nft-new-banner-2,
+    .top-nft-new-banner-4 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #000 10%), linear-gradient(to right, #ffffff2c, #ffffff2c 10%, #000 10%)
+    }
+
+    .nft-new-glow-bg-1 {
+        position: absolute;
+        top: -2vw;
+        right: 8vw;
+        width: 500px;
+        height: 500px;
+        border-radius: 50%;
+        filter: blur(140px);
+        z-index: 1
+    }
+
+    .nft-new-glow-bg-2,
+    .nft-new-glow-bg-3,
+    .nft-new-glow-bg-4,
+    .nft-new-glow-bg-5 {
+        z-index: 0;
+        position: absolute;
+        border-radius: 50%
+    }
+
+    .nft-new-glow-bg-2 {
+        top: 30%;
+        right: 40%;
+        width: 300px;
+        height: 300px;
+        filter: blur(240px)
+    }
+
+    .nft-new-glow-bg-3 {
+        top: 30%;
+        right: 0;
+        width: 300px;
+        height: 300px;
+        filter: blur(220px)
+    }
+
+    .nft-new-glow-bg-4 {
+        top: 10%;
+        right: 10%;
+        width: 400px;
+        height: 400px;
+        filter: blur(130px)
+    }
+
+    .nft-new-glow-bg-5 {
+        top: 30%;
+        right: 40%;
+        width: 300px;
+        height: 300px;
+        filter: blur(200px)
+    }
+
+    .top-nft-new-banner-3 .card {
+        border: 2px solid #009aff;
+        background: 0 0;
+        border-radius: 14px;
+        padding: 20px;
+        height: 100%
+    }
+
+    .top-binance-new-banner-8 .card .card-text,
+    .top-nft-new-banner-3 .card .card-text {
+        font-size: .8rem
+    }
+
+    .top-nft-new-heading-1 {
+        font-size: 2.5vw
+    }
+
+    .top-nft-new-heading-2 {
+        font-size: 1rem;
+        width: 90%;
+        margin: auto
+    }
+
+    .top-nft-new-heading-3 {
+        font-size: 1rem
+    }
+
+    .top-nft-new-banner-section .col-lg-8 {
+        position: relative;
+        top: 12vh
+    }
+
+    .top-nft-new-banner-section {
+        background-image: url("https://assets.clarisco.com/images/nft-new/new-nft-landing-page.webp");
+        background-size: 100%;
+        background-repeat: no-repeat
+    }
+
+    .nft-new-banner-button-1 {
+        background-color: transparent;
+        color: #fff;
+        border: 1px solid #ffffff4d;
+        padding: 10px 16px;
+        border-radius: 12px;
+        animation: 1.4s ease-out infinite nftnewanim
+    }
+
+    .nft-new-text-2 {
+        font-size: 1rem;
+        width: 60%;
+        margin-bottom: 30px
+    }
+
+    .nft-new-text-1 {
+        font-size: 3.4vw;
+        font-weight: 600
+    }
+
+    .top-binance-new-banner-6 .swiper {
+        padding-bottom: 140px !important
+    }
+
+    .top-binance-new-banner-6 .swiper-button-next,
+    .top-binance-new-banner-6 .swiper-button-prev {
+        top: auto;
+        bottom: 10px !important
+    }
+
+    .top-binance-new-banner-6 .swiper-button-prev {
+        left: 45%;
+        right: auto
+    }
+
+    .top-binance-new-banner-6 .swiper-button-next {
+        left: calc(45% + 50px);
+        right: auto
+    }
+
+    .hire-right-section p,
+    .top-binance-new-banner-7 .card p {
+        font-size: .8vw
+    }
+
+    .top-binance-new-banner-7 .card {
+        border: 1px solid #ffffff9d;
+        background: 0 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        transition: 1s;
+        overflow: hidden;
+        font-size: 14px;
+        height: 100%
+    }
+
+    .top-binance-new-banner-7 .card:before,
+    .top-binance-new-banner-9 .card:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: #f1dd67;
+        transform: translateX(-110%);
+        z-index: -9;
+        transition: transform 1s
+    }
+
+    .top-binance-new-banner-7 .card:hover p,
+    .top-binance-new-banner-9 .card:hover p {
+        color: #000
+    }
+
+    .top-binance-new-banner-2 .swiper-wrapper {
+        -webkit-transition-timing-function: linear !important;
+        transition-timing-function: linear !important
+    }
+
+    .top-binance-new-banner-2 img {
+        width: 180px
+    }
+
+    .top-binance-new-banner-10 ::-webkit-scrollbar-thumb {
+        background: gold;
+        border-radius: 10px
+    }
+
+    .top-binance-new-banner-10 .faq-column-2-styling {
+        position: relative;
+        left: 16%
+    }
+
+    .top-binance-new-banner-10 .row {
+        background-image: url("https://assets.clarisco.com/images/binance-banner-new-bg.webp");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        padding-top: 150px;
+        padding-bottom: 80px;
+        margin-bottom: 100px
+    }
+
+    .binance-new-text-7 {
+        font-size: 14px;
+        width: 90%;
+        margin: auto
+    }
+
+    .top-binance-new-banner-number-section {
+        font-size: 50px;
+        margin-bottom: 0;
+        font-weight: 700
+    }
+
+    .top-binance-new-banner-8 .card {
+        border: 2px solid #c085df9d;
+        background: 0 0;
+        border-radius: 14px;
+        padding: 20px;
+        height: 100%
+    }
+
+    .top-binance-new-banner-6 .swiper-pagination-bullet-active:before {
+        content: "";
+        display: block;
+        outline: #fff solid 1px;
+        width: 18px;
+        height: 18px;
+        border-radius: 100%;
+        position: relative;
+        top: -5px;
+        left: -5px
+    }
+
+    .top-binance-new-banner-6 .swiper-pagination-bullet {
+        background: #fff;
+        width: 8px;
+        height: 8px;
+        opacity: 1 !important;
+        margin-right: 10px !important
+    }
+
+    .top-binance-new-banner-6 .swiper-slide img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 10px
+    }
+
+    .binance-new-text-6 {
+        font-size: 10px
+    }
+
+    .binance-new-text-5 {
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: center
+    }
+
+    .top-binance-new-banner-6 .swiper {
+        padding-top: 100px
+    }
+
+    .top-binance-new-banner-6 .swiper-slide {
+        background-color: #3a0b34;
+        padding: 30px 10px !important;
+        color: #fff;
+        transform: scale(.7) !important;
+        transition: .25s ease-out;
+        border: 1px solid #9f879c;
+        border-radius: 10px;
+        backdrop-filter: blur(20px)
+    }
+
+    .top-binance-new-banner-6 .swiper-slide-active {
+        transform: scale(1.5) !important;
+        backdrop-filter: blur(0px) !important
+    }
+
+    .binance-new-social-icons-1,
+    .binance-new-social-icons-2 {
+        font-size: 30px;
+        background-color: #ffffff33;
+        backdrop-filter: blur(20px);
+        padding: 20px;
+        border: 1px solid #bebbae;
+        border-radius: 20px;
+        transform: rotateZ(-15deg);
+        position: relative;
+        top: 14px;
+        right: 10px;
+        transition: transform .2s
+    }
+
+    .binance-new-social-icons-section-1,
+    .binance-new-social-icons-section-2 {
+        border-radius: 20px;
+        transform: rotateZ(15deg);
+        box-shadow: 6px 0 10px #e4e4e46e;
+        top: -9px;
+        right: -10px;
+        transition: transform .2s;
+        position: relative
+    }
+
+    .binance-new-social-icons-section-1 {
+        background: linear-gradient(135deg, #4682eb -20%, #01beff 120%);
+        margin-right: 30px
+    }
+
+    .binance-new-social-icons-section-2 {
+        margin-right: 20px;
+        background: linear-gradient(135deg, #25d366 -20%, #6fe79b 120%)
+    }
+
+    .top-binance-new-banner-4 .swiper p {
+        text-align: center;
+        margin-bottom: 0;
+        font-size: .9vw;
+        font-weight: 1000;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif
+    }
+
+    .top-binance-new-banner-4 .swiper-slide {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        border: 1px solid #ffffff31;
+        border-radius: 4px;
+        background: rgba(255, 255, 255, .014);
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
+        backdrop-filter: blur(15px)
+    }
+
+    .binance-new-text-4 {
+        font-size: 15px;
+        width: 90%
+    }
+
+    .binance-new-text-3 {
+        font-size: 2vw;
+        font-weight: 600;
+        margin-bottom: 20px
+    }
+
+    .top-binance-new-banner-2 {
+        padding-top: 10px !important;
+        background-color: #1d1d1d;
+        padding-bottom: 6px !important
+    }
+
+    .top-binance-new-banner-2 marquee a {
+        margin-right: 5vw
+    }
+
+    .navbar-brand img,
+    .top-binance-new-banner-2 marquee img {
+        width: 150px
+    }
+
+    .top-binance-new-button-1 .fa-door-open,
+    .top-binance-new-button-1:hover .fa-door-closed {
+        transition: .5s;
+        display: none
+    }
+
+    .top-binance-new-button-1 {
+        display: flex;
+        align-items: center;
+        background: linear-gradient(to right, gold, #ff8c00);
+        transform: perspective(500px) rotateY(15deg);
+        width: fit-content;
+        padding: 10px 20px;
+        border-radius: 12px;
+        color: #fff;
+        transition: .5s
+    }
+
+    .top-binance-new-button-1:hover {
+        transform: perspective(500px) rotateY(0)
+    }
+
+    .top-binance-new-button-1:hover .fa-door-open {
+        transition: .5s;
+        display: block
+    }
+
+    .binance-new-text-2 {
+        font-size: 1rem;
+        width: 60%;
+        margin: auto
+    }
+
+    .binance-new-text-1 {
+        font-size: 4rem;
+        font-weight: 700
+    }
+
+    .new-banner-text-4,
+    .service-image-1 p {
+        font-size: 16px
+    }
+
+    .new-contact-form label {
+        font-size: 12px
+    }
+
+    .top-home-new-social-fixed-top-services li {
+        margin-bottom: 16px !important;
+        list-style: none
+    }
+
+    #top-serivces-close i,
+    #top-serivces-open i {
+        font-size: 14px;
+        margin-left: 5px;
+        position: relative;
+        top: 2px
+    }
+
+    #top-serivces-close,
+    #top-serivces-open {
+        cursor: pointer
+    }
+
+    #top-serivces-close,
+    .service-Custom-image-2,
+    .service-Custom-image-3,
+    .service-Custom-image-4,
+    .service-Custom-image-5,
+    .service-Custom-image-6,
+    .service-DApp-image-2,
+    .service-DApp-image-3,
+    .service-DApp-image-4,
+    .service-DApp-image-5,
+    .service-DApp-image-6,
+    .service-DApp-image-7,
+    .service-Metaverse-image-2,
+    .service-Metaverse-image-3,
+    .service-Metaverse-image-4,
+    .service-Metaverse-image-5,
+    .service-Metaverse-image-6,
+    .service-Tokenization-image-2,
+    .service-Tokenization-image-3,
+    .service-Tokenization-image-4,
+    .service-Tokenization-image-5,
+    .service-Tokenization-image-6,
+    .service-exchange-image-2,
+    .service-exchange-image-3,
+    .service-exchange-image-4,
+    .service-exchange-image-5,
+    .service-exchange-image-6,
+    .service-nft-image-2,
+    .service-nft-image-3,
+    .service-nft-image-4,
+    .service-nft-image-5,
+    .service-nft-image-6,
+    .service-nft-image-7 {
+        display: none
+    }
+
+    .top-home-new-social-fixed-top-services {
+        padding-bottom: 20px;
+        border-bottom: 1px solid #ffffff33;
+        display: none
+    }
+
+    .top-social-fixed-border {
+        border-right: 1px solid #ffffff33;
+        margin-right: 20px
+    }
+
+    .top-home-new-social-fixed {
+        position: fixed;
+        bottom: 10px;
+        left: 0;
+        right: 0;
+        width: 1210px;
+        margin: auto;
+        z-index: 9999;
+        background: rgba(0, 0, 0, .9);
+        border-bottom: 1px solid rgba(255, 255, 255, .048);
+        border-top: 1px solid rgba(255, 255, 255, .048);
+        border-radius: 12px;
+        padding: 10px 4px;
+        letter-spacing: 1px;
+        backdrop-filter: blur(15px) contrast(60%);
+        -webkit-backdrop-filter: blur(15px) contrast(60%)
+    }
+
+    .new-social-fixed-text-1,
+    .new-social-fixed-text-1-1 {
+        margin-right: 40px;
+        margin-left: 4px;
+        font-weight: 500;
+        cursor: pointer
+    }
+
+    .new-social-fixed-icon-1,
+    .new-social-fixed-icon-2 {
+        width: 38px;
+        height: 38px;
+        display: flex;
+        align-items: center
+    }
+
+    #captcha,
+    .contact-container-new-form {
+        letter-spacing: 1px;
+        z-index: 1;
+        transition: .5s;
+        backdrop-filter: blur(15px);
+        overflow: hidden;
+        text-decoration: none
+    }
+
+    .new-social-fixed-icon-1 {
+        background: #00a500;
+        border-radius: 50%;
+        justify-content: center;
+        border: none;
+        color: #eee;
+        cursor: pointer;
+        font-size: 22px
+    }
+
+    .new-social-fixed-icon-2 {
+        background: #3f9fb6;
+        border-radius: 50%;
+        justify-content: center;
+        border: none;
+        color: #eee;
+        cursor: pointer;
+        font-size: 22px
+    }
+
+    .new-social-fixed-icon-3,
+    .new-social-fixed-icon-4 {
+        width: 38px;
+        height: 38px;
+        align-items: center;
+        color: #eee;
+        font-size: 22px;
+        display: flex;
+        cursor: pointer
+    }
+
+    .new-social-fixed-icon-3 {
+        background: #2197d5;
+        border-radius: 50%;
+        justify-content: center;
+        border: none
+    }
+
+    .new-social-fixed-icon-4 {
+        background: #d5214e;
+        border-radius: 50%;
+        justify-content: center;
+        border: none
+    }
+
+    .new-social-fixed-text-1 {
+        font-size: .8rem;
+        color: #fff
+    }
+
+    .new-social-fixed-text-1-1 {
+        font-size: .7rem;
+        color: #fff
+    }
+
+    .new-social-fixed-text-2 {
+        font-size: .8rem;
+        font-weight: 500;
+        cursor: pointer;
+        color: #fff
+    }
+
+    .new-social-fixed-text-2 i {
+        position: relative;
+        left: -6px;
+        opacity: 0;
+        transition: .2s
+    }
+
+    .new-top-banner-section-11 {
+        background-image: url("../../../assets.clarisco.com/images/7598456_3704264-ai.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat
+    }
+
+    .contact-new-form-button {
+        font-size: 16px;
+        background-image: linear-gradient(to right, #cc6d68 0, #cc6d68 11%, #604499 100%);
+        color: #fff;
+        padding: 12px 18px;
+        border-radius: 50px;
+        border: 0
+    }
+
+    .contact-container-new-form .input-group-text,
+    .form-control-new-contact,
+    .form-control-new-contact-2 {
+        padding: .375rem .75rem;
+        font-weight: 400;
+        line-height: 1.5
+    }
+
+    .contact-new-form-button:hover i {
+        background-color: #722c75;
+        color: #fff
+    }
+
+    .contact-new-form-button i {
+        margin-left: 20px;
+        background-color: #bb90eb77;
+        color: #fff;
+        padding: 6px 8px;
+        border-radius: 50%
+    }
+
+    .contact-container-new-form ::placeholder {
+        color: #fff !important
+    }
+
+    .contact-container-new-form input::-webkit-inner-spin-button,
+    .contact-container-new-form input::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0
+    }
+
+    #captcha {
+        width: 70px;
+        text-align: center;
+        background: rgba(255, 255, 255, .05);
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
+        border-radius: 10px;
+        color: #fff;
+        font-weight: 400px
+    }
+
+    .captcha-verify {
+        font-size: 1.5rem
+    }
+
+    .captcha-lable {
+        font-size: 15px !important
+    }
+
+    .contact-container-new-form .form-select,
+    .form-control-new-contact,
+    .form-control-new-contact-2 {
+        font-size: .94rem;
+        box-shadow: none !important;
+        background-color: transparent
+    }
+
+    .contact-container-new-form input[type=number] {
+        -moz-appearance: textfield
+    }
+
+    .contact-container-new-form .form-select {
+        color: #fff;
+        border: 0 solid #ced4da;
+        border-radius: 0;
+        background-image: url("https://assets.clarisco.com/images/slect-white-arrow.webp");
+        background-size: 14px
+    }
+
+    .contact-container-new-form option {
+        color: #000 !important
+    }
+
+    .contact-container-new-form .new-contact-form-section {
+        border-bottom: 1px solid #ffffff69;
+        margin-bottom: 30px
+    }
+
+    .contact-container-new-form .contact-container-new-form ::placeholder {
+        color: #fff !important
+    }
+
+    .form-control-new-contact {
+        display: block;
+        width: 100%;
+        color: #fff;
+        background-clip: padding-box;
+        border: 0 solid #ced4da;
+        border-radius: 0
+    }
+
+    .form-control-new-contact-2 {
+        display: block;
+        color: #fff;
+        background-clip: padding-box;
+        border: 0 solid #ced4da;
+        border-radius: 0
+    }
+
+    .form-control-new-contact-2:focus-visible {
+        border: none !important;
+        outline: 0 !important
+    }
+
+    .contact-container-new-form .form-control:focus {
+        color: #fff;
+        background-color: transparent
+    }
+
+    .contact-container-new-form .input-group-text {
+        display: flex;
+        align-items: center;
+        font-size: 1.6rem;
+        color: #fff;
+        text-align: center;
+        white-space: nowrap;
+        background-color: transparent;
+        border: 0 solid #ced4da;
+        border-radius: 0
+    }
+
+    .contact-container-new-form {
+        width: 100%;
+        height: 100%;
+        background: rgba(255, 255, 255, .05);
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
+        border-radius: 10px;
+        color: #fff;
+        font-weight: 400px
+    }
+
+    .testimonials-client-1,
+    .testimonials-client-10,
+    .testimonials-client-11,
+    .testimonials-client-12,
+    .testimonials-client-13,
+    .testimonials-client-2,
+    .testimonials-client-3,
+    .testimonials-client-4,
+    .testimonials-client-5,
+    .testimonials-client-6,
+    .testimonials-client-9 {
+        z-index: 99;
+        position: relative
+    }
+
+    .Industries-home-new-image {
+        height: 70vh;
+        width: auto
+    }
+
+    .faq__body,
+    .new-top-banner-section-8 .carousel-inner {
+        height: 400px
+    }
+
+    .faq-icon-styling {
+        font-size: 30px
+    }
+
+    .new-top-banner-section-10 .accordion-button {
+        border-radius: 2px !important;
+        color: #fff;
+        padding: 1.3em !important;
+        background-color: transparent;
+        box-shadow: none !important
+    }
+
+    .new-top-banner-section-10 .accordion-button:not(.collapsed) {
+        background: rgba(49, 49, 49, .1) !important;
+        backdrop-filter: blur(0px) !important;
+        -webkit-backdrop-filter: blur(0px) !important;
+        border-radius: 10px !important
+    }
+
+    .new-top-banner-section-10 .accordion-button:focus {
+        box-shadow: none;
+        outline: 0
+    }
+
+    .new-top-banner-section-10 .accordion-item {
+        border-radius: 2px !important;
+        background-color: transparent;
+        color: #fff;
+        box-shadow: none !important;
+        border-bottom: 1px solid #ffffff21
+    }
+
+    .new-top-banner-section-10 .accordion-body {
+        padding: 1.3em
+    }
+
+    .faq__body {
+        overflow-y: scroll;
+        padding-right: 30px !important
+    }
+
+    .new-top-banner-section-10 .accordion-button:not(.collapsed)::after {
+        background-image: url("../../../assets.clarisco.com/images/banner/minus-faq.png") !important;
+        transform: rotate(-180deg)
+    }
+
+    .new-top-banner-section-10 .accordion-button::after {
+        flex-shrink: 0;
+        width: 1.25rem;
+        height: 1.25rem;
+        margin-left: auto;
+        content: "";
+        background-image: url("../../../assets.clarisco.com/images/banner/plus-faq.png") !important;
+        background-repeat: no-repeat;
+        background-size: 1.25rem;
+        transition: transform .2s ease-in-out
+    }
+
+    .new-top-banner-section-10 .accordion-button:not(.collapsed) {
+        color: #fff;
+        background-color: #e7f1ff;
+        box-shadow: none !important
+    }
+
+    .top-home-banner-navbar-section .dropdown:hover .dropdown-menu {
+        display: block
+    }
+
+    .new-top-banner-section-8 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #201516 10%), linear-gradient(to right, #ffffff23, #ffffff23 10%, #201516 10%);
+        background-size: 40px 40px;
+        padding-top: 100px
+    }
+
+    .top-home-banner-navbar-section a {
+        color: #fff;
+        text-decoration: none
+    }
+
+    .new-top-banner-section-5 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #17081f 10%), linear-gradient(to right, #ffffff18, #ffffff18 10%, #17081f 10%);
+        background-size: 40px 40px;
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+
+    .new-top-banner-section-6 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #250620 10%), linear-gradient(to right, #ffffff23, #ffffff23 10%, #250620 10%);
+        background-size: 20px 20px;
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+
+    .new-top-banner-section-4,
+    .new-top-banner-section-7 .container-bg,
+    .new-top-banner-section-7 .three-d-banner-column,
+    .service-tab-hidden-section li {
+        background-repeat: no-repeat;
+        background-size: 100% 100%
+    }
+
+    .nav-tabs-left-border-section {
+        border-right: 2px solid rgba(207, 207, 207, .253)
+    }
+
+    .service-image-1 img {
+        border-radius: 20px
+    }
+
+    .services-crypto-list-active {
+        background-image: url("https://assets.clarisco.com/images/banner/services/services-list-ative.webp") !important
+    }
+
+    .services-Custom-list,
+    .services-DApp-list,
+    .services-Metaverse-list,
+    .services-NFT-list,
+    .services-Tokenization-list,
+    .services-crypto-list {
+        background-image: url("https://assets.clarisco.com/images/banner/services/services-list-inative.webp")
+    }
+
+    .service-tab-hidden-section li {
+        font-size: .8rem;
+        margin-bottom: .2rem;
+        font-weight: 500;
+        padding: 6px 14px;
+        list-style: none
+    }
+
+    .new-top-banner-section-4 .nav-pills .nav-link.active,
+    .new-top-banner-section-4 .nav-pills .show>.nav-link {
+        color: #fff !important;
+        background-color: transparent;
+        transform-origin: top center;
+        border-radius: 0
+    }
+
+    .new-top-banner-section-4 {
+        background-image: url("https://assets.clarisco.com/images/banner/new-top-banner-section-4-bg.webp")
+    }
+
+    .new-top-button-3-2 {
+        padding: 8px 20px;
+        background-color: #fff;
+        color: #000
+    }
+
+    .new-top-button-3-1 {
+        padding: 8px 50px;
+        color: red;
+        font-weight: 500;
+        position: relative;
+        top: 2px
+    }
+
+    .new-top-button-3 {
+        background-color: transparent;
+        color: #fff;
+        border: 1px solid #ffffff75;
+        font-size: 1.8rem;
+        border-radius: 4px;
+        font-family: "Bebas Neue", cursive
+    }
+
+    .footer-typo-new i {
+        margin-left: 8px !important;
+        color: #fff;
+        position: relative;
+        left: -6px;
+        opacity: 0;
+        transition: .2s
+    }
+
+    .footer-typo-new a,
+    .footer-typo-new p {
+        font-size: 14px;
+        width: fit-content;
+        transition: .2s;
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        color: #fff;
+        text-decoration: none;
+        margin-bottom: 4px;
+        opacity: .8
+    }
+
+    .footer-typo-new .footer-typo-head {
+        font-size: 1.2rem
+    }
+
+    .footer-logo-image img {
+        width: 60%
+    }
+
+    .new-top-banner-section-9 img {
+        width: 80%
+    }
+
+    .new-top-banner-section-7 img {
+        width: 8rem
+    }
+
+    .new-banner-text-16 {
+        font-size: 10rem;
+        margin: 20px 0;
+        font-weight: 600;
+        line-height: 6rem;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif
+    }
+
+    .new-banner-text-15 {
+        font-size: 1.6rem;
+        margin-bottom: 0;
+        font-weight: 600
+    }
+
+    .new-top-banner-section-7 .three-d-banner-column {
+        padding: 40px;
+        background-position: center;
+        background-image: url("https://assets.clarisco.com/images/banner/green-group.webp");
+        background-color: transparent
+    }
+
+    .new-top-banner-section-7 .container-bg {
+        padding: 100px;
+        background-position: center;
+        background-image: url("https://assets.clarisco.com/images/banner/green-column-bg.webp");
+        background-color: transparent
+    }
+
+    .new-top-banner-section-7 .green-column-glass-effects {
+        padding: 1.3em;
+        border-radius: 7em;
+        background: rgba(58, 80, 73, .3);
+        backdrop-filter: blur(0.5px);
+        -webkit-backdrop-filter: blur(0.5px);
+        border: 1px solid rgba(255, 255, 255, .39)
+    }
+
+    .services-section-tab {
+        backdrop-filter: blur(16.4px);
+        background: #00d9ff00;
+        padding: 12px;
+        margin-bottom: 10px;
+        font-weight: 600;
+        color: #fff;
+        border-radius: 4px
+    }
+
+    .carousel-scroll-left-arrow,
+    .carousel-scroll-right-arrow {
+        font-size: 20px;
+        border: 1px solid #fff;
+        padding: 8px 12px;
+        border-radius: 50%;
+        cursor: pointer
+    }
+
+    .new-banner-text-14 {
+        font-size: 14px
+    }
+
+    .new-banner-text-13 {
+        font-size: 14px;
+        letter-spacing: 2px
+    }
+
+    .new-banner-text-12 {
+        font-size: 20px
+    }
+
+    .carousel-client-icon-1:before {
+        font-size: 1.3rem;
+        color: #009aff;
+        position: relative;
+        top: 30px;
+        background-color: #fff;
+        border-radius: 50px;
+        padding: 6px
+    }
+
+    .carousel-client-image {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%
+    }
+
+    .new-banner-text-11 {
+        font-size: 26px;
+        font-weight: 600
+    }
+
+    .testimonials-circle-1 {
+        width: 2.4rem;
+        height: 2.4rem;
+        background-color: #fd7105;
+        border-radius: 50%;
+        position: relative;
+        right: 6px;
+        top: 0
+    }
+
+    .new-banner-text-10 {
+        font-size: 1.6rem;
+        position: relative;
+        right: 32px;
+        margin-bottom: 10px
+    }
+
+    .testimonials-client-1 {
+        top: 8vw;
+        right: -10vw
+    }
+
+    .testimonials-client-1 img,
+    .testimonials-client-12 img,
+    .testimonials-client-13 img,
+    .testimonials-client-9 img {
+        width: 2vw;
+        height: 2vw
+    }
+
+    .testimonials-client-2 {
+        top: -3vw;
+        right: -8vw
+    }
+
+    .testimonials-client-2 img,
+    .testimonials-client-5 img,
+    .testimonials-client-8 img {
+        width: 4vw;
+        height: 4vw
+    }
+
+    .testimonials-client-3 {
+        top: 10vw;
+        right: -14vw
+    }
+
+    .testimonials-client-3 img {
+        width: 5vw;
+        height: 5vw
+    }
+
+    .testimonials-client-4 {
+        top: 10vw;
+        right: 8vw
+    }
+
+    .new-top-banner-section-demo-4 .nav-link img,
+    .testimonials-client-10 img,
+    .testimonials-client-11 img,
+    .testimonials-client-4 img,
+    .testimonials-client-6 img,
+    .testimonials-client-7 img {
+        width: 3vw;
+        height: 3vw
+    }
+
+    .testimonials-client-5 {
+        top: -1vw;
+        right: 8vw
+    }
+
+    .testimonials-client-6 {
+        top: -1vw;
+        right: 7vw
+    }
+
+    .testimonials-client-7,
+    .testimonials-client-8 {
+        position: relative;
+        top: -1vw;
+        right: -8vw;
+        z-index: 99
+    }
+
+    .testimonials-client-9 {
+        top: 10vw;
+        right: 14vw
+    }
+
+    .testimonials-client-10 {
+        top: 8vw;
+        right: 18vw
+    }
+
+    .testimonials-client-11 {
+        top: -12vw;
+        right: -10vw
+    }
+
+    .testimonials-client-12 {
+        top: -12vw;
+        right: 4vw
+    }
+
+    .testimonials-client-13 {
+        top: 12vw;
+        right: 36vw
+    }
+
+    .testimonials-slide-client-button {
+        background-color: transparent;
+        border: none;
+        outline: 0 !important
+    }
+
+    .testimonials-slide-client-button img:hover {
+        transform: scale(1.4)
+    }
+
+    .testimonials-slide-client-button img {
+        border-radius: 50%;
+        outline: #fd700563 solid 8px;
+        animation: 1s linear 1s infinite reverse clientglowanim;
+        transition: transform .2s
+    }
+
+    .testimonials-world-section {
+        background-image: url("https://assets.clarisco.com/images/banner/testimonials/map.webp");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top: 200px;
+        padding-bottom: 200px;
+        height: 800px;
+        position: relative;
+        top: -200px
+    }
+
+    .new-top-banner-section-6 .swiper-slide:hover .scroller-no {
+        color: #f0c
+    }
+
+    .new-top-banner-section-6 .swiper-slide:hover .industries-slide-images {
+        background-color: #000
+    }
+
+    .scroller-no {
+        left: -35px;
+        bottom: 15%;
+        z-index: -9;
+        color: #f597e2;
+        line-height: 1;
+        font-size: 123px;
+        font-weight: 700;
+        position: absolute;
+        font-family: "Playfair Display";
+        -webkit-transition: .3s ease-in-out;
+        -o-transition: .3s ease-in-out;
+        transition: .3s ease-in-out
+    }
+
+    .new-banner-text-9 {
+        font-size: .9vw
+    }
+
+    .new-banner-text-8 {
+        font-size: 1.5vw;
+        font-weight: 800;
+        margin-bottom: 5px
+    }
+
+    .new-top-banner-section-6 .industries-slide-images {
+        width: 100px;
+        height: 100px;
+        margin-left: 30px;
+        margin-right: 30px;
+        padding: 10px;
+        line-height: 80px;
+        position: relative;
+        border-radius: 100%;
+        background-color: #f1f2fa;
+        -webkit-box-shadow: 0 13px 24px 0 rgba(43, 1, 68, .17);
+        box-shadow: 0 13px 24px 0 rgba(43, 1, 68, .17);
+        -webkit-transition: .3s ease-in-out;
+        -o-transition: .3s ease-in-out;
+        transition: .3s ease-in-out
+    }
+
+    .new-top-banner-section-6 .swiper {
+        width: 100%;
+        padding-right: 6%;
+        padding-left: 6%;
+        height: 400px
+    }
+
+    .new-top-banner-section-6 .swiper-slide {
+        height: 400px;
+        display: flex
+    }
+
+    .new-top-banner-section-6 .swiper-slide .slider-card-box-section {
+        display: flex;
+        background: #f8eefc;
+        color: #000;
+        align-items: center;
+        padding: 20px;
+        border-radius: 4px;
+        -webkit-box-shadow: 0 8px 9px 0 rgba(255, 255, 255, .15);
+        box-shadow: 0 8px 9px 0 rgba(255, 255, 255, .15)
+    }
+
+    .new-top-banner-section-6 .swiper-pagination-bullet {
+        width: 12px;
+        height: 12px;
+        background-color: #fff
+    }
+
+    .new-top-banner-section-6 .swiper-pagination-bullet-active {
+        height: 10vh;
+        border-radius: 12px;
+        background: #f597e2
+    }
+
+    .hire-card-icons {
+        width: 42px;
+        height: 42px;
+        transition: transform .2s
+    }
+
+    .hire-right-section .card {
+        background: #4b305a85;
+        border: 1px solid #ffffff21;
+        border-radius: 4px;
+        transition: transform .2s
+    }
+
+    .hire-middle-section .nav-pills .nav-link.active,
+    .hire-middle-section .nav-pills .show>.nav-link {
+        color: #fff !important;
+        background-color: transparent;
+        background-image: url("https://assets.clarisco.com/images/banner/hire/hire-slide-active.webp");
+        background-size: 100% 100%
+    }
+
+    .hire-middle-section .nav-link {
+        padding-left: 40px !important;
+        text-align: start;
+        font-size: 16px;
+        color: #fff;
+        margin-bottom: 4vh;
+        padding: 20px 0
+    }
+
+    .arrows-top-tabs-change {
+        width: 24px;
+        margin-bottom: 20px
+    }
+
+    .hire-arrow-round-down-images {
+        width: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px
+    }
+
+    .new-banner-text-7 {
+        font-size: 3rem;
+        font-family: "Bebas Neue", cursive;
+        margin-bottom: 0
+    }
+
+    .slider-button-1,
+    .slider-text-1 {
+        font-family: Poppins;
+        font-weight: 800
+    }
+
+    .hire-left-section {
+        backdrop-filter: blur(33.4px);
+        background: #f4bcff1a;
+        border-radius: 12px
+    }
+
+    .get-demo-services-button {
+        background: 0 0;
+        border: 1px solid #fff;
+        color: #fff;
+        padding: 6px 14px;
+        border-radius: 4px
+    }
+
+    .nav-tabs-left-section {
+        width: 98%
+    }
+
+    .new-banner-text-6 {
+        font-size: 1.8rem
+    }
+
+    .new-banner-text-5 {
+        font-size: 1.1rem;
+        font-weight: 500
+    }
+
+    .new-top-banner-section-4 .nav-pills .nav-link.service-active-tabs-box .service-tab-hidden-section {
+        display: block !important
+    }
+
+    .service-tab-hidden-section {
+        font-size: 13px;
+        display: none
+    }
+
+    .new-top-banner-section-4 .nav-pills .nav-link {
+        color: #fff;
+        text-align: left;
+        padding: 10px;
+        margin-bottom: 10px;
+        overflow: hidden
+    }
+
+    .top-banner-heading-1 {
+        font-size: 2.5rem
+    }
+
+    .top-banner-heading-2 {
+        font-size: 1.1rem
+    }
+
+    .new-top-banner-section-demo-4 .nav-link {
+        padding: 1rem !important;
+        background-color: #fff;
+        border-radius: 50%
+    }
+
+    #pills-service-tab-6-tab {
+        position: relative;
+        top: -16vw
+    }
+
+    .new-banner-text-3 {
+        font-size: 2vw;
+        font-weight: 600;
+        margin-bottom: 40px
+    }
+
+    .new-banner-3-image-2 {
+        position: relative;
+        z-index: 99
+    }
+
+    .new-banner-3-image-1 {
+        width: 70%;
+        position: relative;
+        z-index: 99
+    }
+
+    .floating-image-3-4,
+    .floating-image-4-4 {
+        z-index: 1;
+        height: auto !important;
+        position: absolute
+    }
+
+    .new-top-banner-section-2 {
+        padding-top: 40px;
+        padding-bottom: 120px;
+        background-image: url("../../../assets.clarisco.com/images/bg-paper.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        color: #000
+    }
+
+    .new-top-banner-section-3-right-section {
+        background: rgba(38, 79, 192, .068);
+        backdrop-filter: blur(15px);
+        padding-top: 80px;
+        padding-bottom: 80px;
+        padding-right: 20px;
+        border-top: 2px solid red
+    }
+
+    .new-banner-text-1 {
+        font-size: 4rem;
+        font-weight: 500;
+        margin-bottom: 0
+    }
+
+    .new-banner-text-2 {
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin-bottom: 0
+    }
+
+    .top-home-banner-navbar-section .navbar {
+        background: center/cover no-repeat #ffffff1c;
+        padding: 0
+    }
+
+    .top-home-banner-navbar-section .dropdown_megamenu-section-1 .dropdown-menu {
+        backdrop-filter: blur(33.4px);
+        background: #2e2d2d34;
+        top: 100%;
+        right: -24rem !important;
+        left: auto !important;
+        margin-top: 0 !important
+    }
+
+    .top-home-banner-navbar-section .dropdown_megamenu-section-2 .dropdown-menu {
+        backdrop-filter: blur(33.4px);
+        background: #e6e5e534;
+        top: 100%;
+        right: -10rem !important;
+        left: auto !important;
+        margin-top: 0 !important
+    }
+
+    .dropdown_megamenu-content li {
+        list-style: none !important;
+        color: #fff;
+        font-size: 14px;
+        margin-bottom: 10px
+    }
+
+    .tab-content ul li {
+        list-style: none;
+        color: #fff;
+        font-size: 14px;
+        margin-bottom: 10px;
+        letter-spacing: .2px
+    }
+
+    .top-home-banner-navbar-section .nav-pills .nav-link {
+        backdrop-filter: blur(16.4px);
+        background: #53535300;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin-bottom: 10px;
+        font-weight: 600;
+        color: #fff
+    }
+
+    .top-home-banner-navbar-section .nav-pills .nav-link.active,
+    .top-home-banner-navbar-section .nav-pills .show>.nav-link {
+        color: #fff !important;
+        background-color: #378379
+    }
+
+    .top-home-banner-navbar-section .navbar-light .navbar-nav .nav-link.active,
+    .top-home-banner-navbar-section .navbar-light .navbar-nav .show>.nav-link {
+        color: #fff !important
+    }
+
+    .top-nav-text-1 {
+        font-size: 14px;
+        font-weight: 500
+    }
+
+    .top-home-banner-navbar-section .navbar-mega-dropdown {
+        background: 0 0;
+        border: none;
+        color: #fff;
+        font-weight: 500;
+        padding: 15px 6px;
+        text-transform: uppercase;
+        font-size: 13px
+    }
+
+    .top-navbar-talk-experts-btn {
+        background-color: #378379;
+        color: #fff !important;
+        padding: 6px;
+        border-radius: 13px;
+        border: 0 solid;
+        font-size: 14px;
+        font-weight: 600;
+        margin-top: .8rem
+    }
+
+    .top-navbar-navlink,
+    .top-social-navlink {
+        padding-top: 15px;
+        padding-bottom: 15px
+    }
+
+    .top-social-navlink img {
+        width: 30px;
+        height: 30px
+    }
+
+    .top-home-banner-navbar-section .navbar-nav .nav-item {
+        margin-left: .2vw
+    }
+
+    .top-navbar-navlink {
+        background: 0 0;
+        border: none;
+        color: #fff !important;
+        margin-top: .5rem;
+        font-size: 13px;
+        font-weight: 500
+    }
+
+    .swiper-slide-1,
+    .swiper-slide-2,
+    .swiper-slide-3 {
+        background-size: 100% 100%
+    }
+
+    .dropdown_megamenu-content,
+    .dropdown_megamenu-content-2 {
+        padding: 20px 30px;
+        transform-origin: top center;
+        animation-duration: 1s
+    }
+
+    .dropdown_megamenu-content-height-scroll {
+        border-right: 1px solid #a0a0a04d
+    }
+
+    .dropdown_megamenu-content-2 {
+        width: 20rem;
+        animation-name: translateX2
+    }
+
+    .dropdown_megamenu-content {
+        width: 54rem;
+        animation-name: translateX
+    }
+
+    .floating-image-3-3 {
+        position: absolute;
+        top: 1vw;
+        left: 5vw;
+        width: 5vw !important;
+        height: auto !important
+    }
+
+    .floating-image-3-4 {
+        right: -24vw;
+        width: 7vw !important
+    }
+
+    .floating-image-4-4 {
+        top: -2vw;
+        right: -19vw;
+        width: 6vw !important
+    }
+
+    .floating-image-4-2,
+    .floating-image-4-3 {
+        width: 4vw !important;
+        position: absolute;
+        height: auto !important
+    }
+
+    .floating-image-4-3 {
+        top: 1vw;
+        left: 5vw
+    }
+
+    .floating-image-4-2 {
+        right: -16vw;
+        top: 18vw
+    }
+
+    .floating-image-2-2,
+    .floating-image-2-3 {
+        top: 16vw;
+        height: auto !important;
+        position: absolute
+    }
+
+    .floating-image-2-3 {
+        right: -16vw;
+        width: 10vw !important
+    }
+
+    .floating-image-2-2 {
+        right: -6vw;
+        width: 6vw !important
+    }
+
+    .floating-image-1-2 img {
+        width: 26vw !important;
+        height: auto;
+        margin: auto;
+        position: relative;
+        left: 150px;
+        top: -20px
+    }
+
+    .floating-image-1-1 img {
+        width: 24vw !important;
+        margin: auto;
+        position: relative;
+        left: -10px
+    }
+
+    .top-home-banner-section .swiper-button-next {
+        right: var(--swiper-navigation-sides-offset, 10px);
+        left: 14vw !important
+    }
+
+    .top-home-banner-section .swiper-button-prev {
+        right: var(--swiper-navigation-sides-offset, 10px);
+        left: calc(14vw - 80px) !important
+    }
+
+    .top-home-banner-section .swiper-button-next,
+    .top-home-banner-section .swiper-button-prev {
+        border: 1px solid #fff;
+        height: 40px !important;
+        width: 40px !important;
+        border-radius: 50px;
+        outline: 0 !important;
+        position: absolute;
+        top: 90%;
+        width: calc(var(--swiper-navigation-size)/ 44 * 27);
+        height: var(--swiper-navigation-size);
+        margin-top: calc(0px - (var(--swiper-navigation-size)/ 2));
+        z-index: 10;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff !important
+    }
+
+    .swiper-slide-2 {
+        background-image: url("https://assets.clarisco.com/images/swiper-bg-2.webp")
+    }
+
+    .swiper-slide-3 {
+        background-image: url("https://assets.clarisco.com/images/swiper-bg-5.webp")
+    }
+
+    .swiper-slide-1 {
+        background-image: url("https://assets.clarisco.com/images/swiper-bg-1.webp")
+    }
+
+    .slider-text-1 {
+        font-style: italic;
+        color: #fff;
+        line-height: 3.4vw;
+        letter-spacing: 0;
+        font-size: 30px
+    }
+
+    .slider-text-2,
+    .slider-text-3 {
+        font-style: italic;
+        letter-spacing: -1px;
+        font-weight: 800
+    }
+
+    .slider-text-2 {
+        color: #fff;
+        line-height: 3vw;
+        font-size: 3vw
+    }
+
+    .slider-text-3 {
+        color: rgba(255, 255, 255, .8);
+        line-height: 90px;
+        font-size: 3.4vw
+    }
+
+    .slider-button-1 {
+        background-color: rgba(0, 0, 0, 0);
+        cursor: pointer;
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        line-height: 60px;
+        letter-spacing: 0;
+        font-size: 18px;
+        border: 1px solid rgba(255, 255, 255, .35);
+        padding-left: 50px;
+        border-radius: 50px;
+        padding-right: 50px
+    }
+
+    .slider-text-4 {
+        color: rgba(255, 255, 255, .8);
+        letter-spacing: 0;
+        font-weight: 400;
+        font-size: 1vw
+    }
+
+    .banner-right-section {
+        position: relative;
+        right: -6vw;
+        z-index: 99
+    }
+
+    .banner-left-section {
+        position: relative;
+        right: 2vw;
+        z-index: 99;
+        top: 13vw
+    }
+
+    .floating-image-1 img {
+        width: 14vw !important;
+        margin: auto;
+        position: relative;
+        left: -10px
+    }
+
+    .floating-image-2 {
+        position: absolute;
+        right: -6vw;
+        top: 14vw;
+        width: 9vw !important;
+        height: auto !important
+    }
+
+    .floating-image-3,
+    .floating-image-4 {
+        position: absolute;
+        width: 5vw !important;
+        height: auto !important
+    }
+
+    .floating-image-3 {
+        top: 24vw;
+        left: -2vw
+    }
+
+    .floating-image-4 {
+        z-index: 1;
+        right: -1vw;
+        filter: blur(1px)
+    }
+}
+
+.dot-blocking li::before,
+.dot-blocking-categories li::before {
+    left: -20px;
+    transform: rotate(45deg);
+    top: 6px;
+    background-color: orange
+}
+
+.country-select label,
+.iti-flag kk-show-flags label {
+    margin-left: auto
+}
+
+#captcha,
+.new-banner-contact-split-section,
+.new-banner-contact-split-section-2 {
+    box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+    backdrop-filter: blur(15px)
+}
+
+.top-home-banner-section .swiper-slide-active .swiper-left-1 {
+    animation-name: swiperCatchAnimation;
+    animation-duration: 1.6s;
+    animation-fill-mode: both
+}
+
+.top-home-banner-section .swiper-slide-active .swiper-middle-1 {
+    animation-name: swiperCatchAnimation2;
+    animation-duration: 1.6s;
+    animation-fill-mode: both
+}
+
+.top-home-banner-section .swiper-slide-active .swiper-middle-1-2 {
+    animation-name: swiperCatchAnimation2;
+    animation-fill-mode: both
+}
+
+@keyframes swiperCatchAnimation {
+    0% {
+        opacity: 0;
+        transform: translateX(2000px)
+    }
+
+    50% {
+        opacity: 1;
+        transform: translateX(-120px)
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0)
+    }
+}
+
+@keyframes swiperCatchAnimation2 {
+    0% {
+        opacity: 0;
+        transform: translateX(-2000px)
+    }
+
+    50% {
+        opacity: 1;
+        transform: translateX(120px)
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0)
+    }
+}
+
+@keyframes translateX {
+    0% {
+        width: 0
+    }
+
+    100%,
+    50% {
+        width: 54rem
+    }
+}
+
+@keyframes translateX2 {
+    0% {
+        width: 0
+    }
+
+    100%,
+    50% {
+        width: 20rem
+    }
+}
+
+.error {
+    color: red
+}
+
+.top-nft-new-banner-4-game img {
+    width: 60%;
+    height: auto
+}
+
+@media (max-width:350px) {
+    .top-nft-new-banner-5-1 .swiper-slide {
+        height: 400px !important
+    }
+}
+
+@media only screen and (max-width:991px) and (min-width:350px) {
+    .top-nft-new-banner-5-1 .swiper-slide {
+        height: 300px !important
+    }
+}
+
+@media (max-width:991px) {
+    .new-custom-web-image-1 {
+        width: 20px;
+        height: 20px;
+        margin-right: 4px
+    }
+
+    .new-custom-tech-tools-section .card {
+        background: #ffffff1e;
+        border: 1px solid #ffffff21;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-bottom: 2px solid #01beff
+    }
+
+    .new-custom-tech-tools-section .card:hover .card-header {
+        background: #01beff
+    }
+
+    .new-custom-tech-tools-section .card-header {
+        border-bottom: 1px solid #ffffff21;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px
+    }
+
+    .binance-new-text-1,
+    .binance-new-text-3,
+    .new-banner-text-15,
+    .new-banner-text-2,
+    .new-banner-text-3,
+    .new-banner-text-5,
+    .new-top-button-3,
+    .nft-new-text-1,
+    .post-item__meta--category,
+    .service-tab-hidden-section li,
+    .slider-button-1,
+    .slider-text-1,
+    .slider-text-2,
+    .slider-text-3,
+    .top-binance-new-banner-4 .swiper p,
+    .top-navbar-navlink,
+    .top-nft-new-heading-4 {
+        text-transform: uppercase
+    }
+
+    .new-denc-text-1,
+    .nft-new-banner-button-1:hover {
+        color: #fff !important
+    }
+
+    .top-decentralized-exchange-new-banner-section {
+        background-image: url("https://assets.clarisco.com/images/new-decentralized-exchange/decentralized-exchange-company-banner-1.webp");
+        background-size: 200% 160%;
+        background-repeat: no-repeat
+    }
+
+    .top-blockchain-development-new-banner-section {
+        background-image: url("https://assets.clarisco.com/images/new-blockchain-development/blockchain-development-company-banner-1.webp");
+        background-size: 200% 160%;
+        background-repeat: no-repeat
+    }
+
+    .read-more-fontfamily h2 span {
+        font-size: 1.8rem !important;
+        line-height: 1.4
+    }
+
+    .read-more-fontfamily ol {
+        padding-left: .5rem
+    }
+
+    .read-more-fontfamily li,
+    .read-more-fontfamily p {
+        text-align: justify
+    }
+
+    .cryptoexchange-clone-top .fs-14 {
+        font-size: 2vw
+    }
+
+    .diclaimer-content-button {
+        font-size: 16px
+    }
+
+    .diclaimer-content {
+        padding: 2px 6px;
+        color: #000;
+        width: 100%;
+        position: fixed;
+        bottom: 60px;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        margin: auto;
+        border-radius: 4px
+    }
+
+    .diclaimer-content p {
+        font-size: 10px !important
+    }
+
+    .slider-text-4 {
+        position: relative;
+        top: -4vh
+    }
+
+    .top-p2pexchange-exchange-new-banner-1 {
+        background-image: url("https://assets.clarisco.com/images/p2p-exchange/top-p2pexchange-new-banner-bg-1-1.webp");
+        background-size: 600% 100%;
+        background-repeat: no-repeat;
+        background-position: center
+    }
+
+    .post-item__meta--category {
+        display: inline-block;
+        background-color: #ffcf2a;
+        font-size: .7rem;
+        letter-spacing: .01rem;
+        font-weight: 700;
+        padding: 2px 10px;
+        color: #000;
+        border-radius: 20px
+    }
+
+    .nomatch-section img {
+        width: 80%;
+        height: 80%
+    }
+
+    .cta-background-image-height {
+        height: 200px
+    }
+
+    .about-us-icon-image img,
+    .contact-us-icon-image img,
+    .defi-icons,
+    .home-image-size img,
+    .social-tokens-image img,
+    .whitelabel-multichain-image img,
+    .whitelabel-nft-image img,
+    .whitelabel-nft-image-clone-app img {
+        width: 50px;
+        height: 50px
+    }
+
+    .border-color-nav {
+        border: 1px solid #ffcf2a !important
+    }
+
+    .img-width,
+    .techstack .card img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto
+    }
+
+    .crypto-exchange-styling {
+        border: 5px solid #fff;
+        border-radius: 15px
+    }
+
+    .hire-image-size img,
+    .team-image-size img {
+        width: 64px;
+        height: 64px
+    }
+
+    .thankyou-page-section {
+        position: relative;
+        top: -100px
+    }
+
+    .thankyou-icons {
+        font-size: 20px;
+        border: 1px solid #ffffff2d;
+        color: #fff;
+        padding: 10px;
+        border-radius: 50%
+    }
+
+    .thankyou-image img {
+        width: 200px
+    }
+
+    .cryptoexchange-clone-top img {
+        width: 40px;
+        height: 40px;
+        margin-bottom: 10px
+    }
+
+    .cryptoexchange-clone {
+        background: 0 0;
+        cursor: pointer;
+        border-radius: 15px;
+        position: relative;
+        padding: 5px 10px;
+        margin: 10px;
+        color: #fff;
+        border: 1px solid #fff
+    }
+
+    .cryptoexchange-clone::after {
+        content: "";
+        background: #fff;
+        border-radius: 15px;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 0;
+        clip-path: circle(10% at 0% 0%);
+        transition: .3s ease-in
+    }
+
+    .crypto-img2 .card img {
+        width: 120px;
+        height: 80px
+    }
+
+    .crypto-img .card img {
+        width: 80px;
+        height: 80px
+    }
+
+    .Cryptocurrencymlmclone-image img,
+    .Demandingclone-image img,
+    .cryptocurrency-exchange-clone img,
+    .cryptocurrency-hyip-clone img,
+    .defi-clone-image img,
+    .nft-clone-image img {
+        width: 100px;
+        height: 100px
+    }
+
+    .Blockchain-Dapps-Games img {
+        width: 120px;
+        height: 120px
+    }
+
+    .contact-form-footer-business {
+        height: auto
+    }
+
+    .floating-image-4-2,
+    .floating-image-4-3,
+    .floating-image-4-4 {
+        height: auto !important;
+        position: absolute
+    }
+
+    .floating-image-4-4 {
+        z-index: 1;
+        right: 8vw;
+        width: 8vw !important
+    }
+
+    .floating-image-4-3 {
+        top: 1vw;
+        left: 5vw;
+        width: 12vw !important
+    }
+
+    .floating-image-4-2 {
+        right: 13vw;
+        top: 55vw;
+        width: 9vw !important
+    }
+
+    .nft-new-text-4,
+    .nft-new-text-5 {
+        top: -40px;
+        margin-bottom: 10px;
+        position: relative;
+        text-align: center
+    }
+
+    .crypto-exchange-clone,
+    .hire-card-icons {
+        width: 42px;
+        height: 42px;
+        transition: transform .2s
+    }
+
+    .hire-right-section .card:hover .crypto-exchange-clone,
+    .hire-right-section .card:hover .hire-card-icons {
+        transform: scale(1.3)
+    }
+
+    .top-cryptocurrency-exchange-new-banner-1 {
+        background-image: url("https://assets.clarisco.com/images/cryptocurrency-exchange/top-crypto-exchange-new-banner-bg-1.webp");
+        background-size: 600% 100%;
+        background-repeat: no-repeat
+    }
+
+    .top-whitelabel-new-banner-1 {
+        background-image: url("https://assets.clarisco.com/images/whitelabel-exchange/top-whitelabel-new-banner-bg-1.webp");
+        background-size: 300% 100%;
+        background-repeat: no-repeat
+    }
+
+    #whitelabel-features-tabs-1,
+    #whitelabel-features-tabs-2 {
+        font-size: 1.6vw;
+        cursor: pointer
+    }
+
+    .top-whitelabel-new-banner-3 {
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+
+    .top-whitelabel-new-banner-3 .card {
+        border: 1px solid #ffffff9d;
+        background: 0 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        transition: 1s;
+        overflow: hidden;
+        height: 100%
+    }
+
+    .top-whitelabel-new-banner-3 .card p {
+        transition: 2s
+    }
+
+    .top-whitelabel-new-banner-3 .card:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: #6b22ec;
+        transform: translateX(-110%);
+        z-index: -9;
+        transition: transform 1s
+    }
+
+    .contact-list-bottom-new a,
+    .top-whitelabel-new-banner-3 .card:hover p {
+        color: #fff
+    }
+
+    .top-binance-new-banner-7 .card:hover:before,
+    .top-whitelabel-new-banner-3 .card:hover:before {
+        transform: translateX(0)
+    }
+
+    .top-whitelabel-new-banner-3 .nav-pills .nav-link.active,
+    .top-whitelabel-new-banner-3 .nav-pills .show>.nav-link {
+        color: #6b22ec;
+        background-color: #6b22ec
+    }
+
+    .new-whitelabel-tabs .nav {
+        background-color: #fff;
+        width: fit-content;
+        padding: 1px;
+        border-radius: 50px;
+        z-index: 99
+    }
+
+    .new-whitelabel-tabs .nav-link {
+        border-radius: 40px;
+        padding: 12px 23px;
+        color: #fff
+    }
+
+    .top-binance-new-banner-section {
+        background-size: 200% 160%;
+        background-repeat: no-repeat
+    }
+
+    .top-binance-new-banner-3,
+    .top-binance-new-banner-5,
+    .top-binance-new-banner-7 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #000 10%), linear-gradient(to right, #ffffff15, #ffffff15 10%, #000 10%);
+        background-size: 20px 20px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        overflow-y: hidden
+    }
+
+    .top-binance-new-banner-4 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background: #10121131;
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+        backdrop-filter: blur(15px);
+        overflow-y: hidden
+    }
+
+    .top-binance-new-banner-6,
+    .top-binance-new-banner-8 {
+        background-size: 20px 20px;
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+
+    .top-binance-new-banner-6 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #250620 10%), linear-gradient(to right, #ffffff28, #ffffff28 10%, #250620 10%);
+        overflow-y: hidden
+    }
+
+    .top-binance-new-banner-8,
+    .top-nft-new-banner-5,
+    .top-nft-new-banner-7 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #17081f 10%), linear-gradient(to right, #ffffff2c, #ffffff2c 10%, #17081f 10%)
+    }
+
+    .top-binance-new-banner-8 {
+        overflow-y: hidden
+    }
+
+    .top-nft-new-banner-5,
+    .top-nft-new-banner-6,
+    .top-nft-new-banner-7 {
+        padding-bottom: 60px;
+        background-size: 20px 20px;
+        padding-top: 60px;
+        overflow-y: hidden
+    }
+
+    .features-margin-nft {
+        margin-top: 80px
+    }
+
+    .binance-new-text-4,
+    .nft-new-text-5 {
+        font-size: 14px
+    }
+
+    .nft-new-text-4 {
+        font-size: 18px
+    }
+
+    .top-nft-new-banner-7 .card {
+        background-color: #ffffff28;
+        backdrop-filter: blur(20px);
+        border-radius: 12px;
+        padding: 10px 14px;
+        border: 1px solid #ffffff34;
+        height: 100%
+    }
+
+    .top-nft-new-banner-3,
+    .top-nft-new-banner-5 .swiper-slide,
+    .top-nft-new-banner-6 .card {
+        backdrop-filter: blur(15px);
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3)
+    }
+
+    .top-nft-new-banner-7 .card img {
+        width: 90px;
+        height: auto;
+        margin: auto;
+        position: relative;
+        top: -70px
+    }
+
+    .top-nft-new-banner-7 .card:after {
+        content: "";
+        width: 60%;
+        height: 70px;
+        top: -30px;
+        right: 20%;
+        position: absolute;
+        display: inline-block;
+        z-index: -99;
+        filter: blur(100px)
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-1:after {
+        background: #00f
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-2:after {
+        background: #ff0
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-3:after {
+        background: #9ac9cd
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-4:after {
+        background: #ec34ff
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-5:after {
+        background: #14ecb7
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-6:after {
+        background: #ffab00
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-7:after {
+        background: #ff69d1
+    }
+
+    .top-nft-new-banner-7 .features-nft-card-8:after {
+        background: #0defc5c5
+    }
+
+    .nft-new-text-3 {
+        font-size: 12px;
+        margin-bottom: 0;
+        margin-top: 16px;
+        text-align: center
+    }
+
+    .top-nft-new-banner-6 .card img {
+        width: 80px;
+        height: auto;
+        margin: auto;
+        transition: .5s ease-in-out
+    }
+
+    .top-nft-new-banner-6 .card {
+        padding: 30px 10px;
+        background: #ffffff05;
+        border: 1px solid #ffffff10;
+        height: 100%;
+        transition: .2s ease-in-out
+    }
+
+    .top-nft-new-banner-6 .card:hover img {
+        transform: scale(1.2)
+    }
+
+    .top-nft-new-banner-6 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #000 10%), linear-gradient(to right, #ffffff15, #ffffff15 10%, #000 10%)
+    }
+
+    .top-binance-new-banner-4 .swiper-slide:before,
+    .top-nft-new-banner-5 .swiper-slide:before {
+        display: block;
+        content: "";
+        background: #fff;
+        height: 1px;
+        position: absolute;
+        top: -50px;
+        width: 160%
+    }
+
+    .top-binance-new-banner-4 .swiper-slide:after,
+    .top-nft-new-banner-5 .swiper-slide:after {
+        display: block;
+        content: "";
+        background: #f9e000;
+        height: 20px;
+        position: absolute;
+        top: -60px;
+        width: 20px;
+        left: 20px;
+        border-radius: 50%;
+        border: 5px solid #424242 !important;
+        outline: rgb(255, 255, 255) dashed 1px
+    }
+
+    .top-binance-new-banner-4 .swiper-button-next:after,
+    .top-binance-new-banner-4 .swiper-button-prev:after,
+    .top-binance-new-banner-6 .swiper-button-next:after,
+    .top-binance-new-banner-6 .swiper-button-prev:after,
+    .top-nft-new-banner-5 .swiper-button-next:after,
+    .top-nft-new-banner-5 .swiper-button-prev:after {
+        font-size: 16px;
+        border: 1px solid #fff;
+        color: #fff;
+        padding: 6px 10px;
+        border-radius: 50%
+    }
+
+    .top-nft-new-banner-5 .swiper-slide {
+        padding: 30px 20px;
+        border: 1px solid #ffffff31;
+        border-radius: 4px;
+        background: rgba(255, 255, 255, .014);
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
+        height: 280px
+    }
+
+    .top-binance-new-banner-4 .swiper,
+    .top-nft-new-banner-5 .swiper {
+        padding-top: 80px;
+        padding-bottom: 60px
+    }
+
+    .top-binance-new-banner-4 .swiper-button-next,
+    .top-binance-new-banner-4 .swiper-button-prev,
+    .top-nft-new-banner-5 .swiper-button-next,
+    .top-nft-new-banner-5 .swiper-button-prev {
+        position: absolute;
+        top: auto !important;
+        bottom: 2px
+    }
+
+    .top-nft-new-heading-4 {
+        font-size: 20px;
+        text-align: start;
+        margin-bottom: 14px;
+        font-weight: 600;
+        color: #ff0
+    }
+
+    .top-nft-new-heading-5 {
+        font-size: 14px;
+        text-align: start;
+        font-weight: 500
+    }
+
+    .top-nft-new-banner-2,
+    .top-nft-new-banner-4 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #000 10%), linear-gradient(to right, #ffffff2c, #ffffff2c 10%, #000 10%);
+        background-size: 20px 20px;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        overflow-y: hidden
+    }
+
+    .nft-new-glow-bg-1 {
+        position: absolute;
+        top: -2vw;
+        right: 8vw;
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        filter: blur(120px);
+        z-index: 1
+    }
+
+    .nft-new-glow-bg-2,
+    .nft-new-glow-bg-3,
+    .nft-new-glow-bg-4,
+    .nft-new-glow-bg-5 {
+        z-index: 0;
+        position: absolute;
+        border-radius: 50%
+    }
+
+    .nft-new-glow-bg-2 {
+        top: 30%;
+        right: 40%;
+        width: 300px;
+        height: 300px;
+        filter: blur(240px)
+    }
+
+    .nft-new-glow-bg-3 {
+        top: 30%;
+        right: 0;
+        width: 300px;
+        height: 300px;
+        filter: blur(220px)
+    }
+
+    .nft-new-glow-bg-4 {
+        top: 2%;
+        right: 16%;
+        width: 240px;
+        height: 240px;
+        filter: blur(140px)
+    }
+
+    .nft-new-glow-bg-5 {
+        top: 30%;
+        right: 40%;
+        width: 300px;
+        height: 300px;
+        filter: blur(200px)
+    }
+
+    .top-nft-new-banner-3 .card {
+        border: 2px solid #009aff;
+        background: 0 0;
+        border-radius: 14px;
+        padding: 20px;
+        height: 100%
+    }
+
+    .top-banner-heading-2,
+    .top-binance-new-banner-8 .card .card-text,
+    .top-nft-new-banner-3 .card .card-text {
+        font-size: .8rem
+    }
+
+    .top-nft-new-banner-3 {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        background: #10121131;
+        overflow-y: hidden
+    }
+
+    .top-nft-new-heading-1 {
+        font-size: 1.6rem
+    }
+
+    .top-nft-new-heading-2 {
+        font-size: 1rem
+    }
+
+    .nav-tabs-right-border-section p,
+    .top-nft-new-heading-3 {
+        font-size: .9rem
+    }
+
+    .top-nft-new-banner-section {
+        background-image: url("https://assets.clarisco.com/images/nft-new/new-nft-landing-page.webp");
+        background-size: 300% 100%;
+        background-repeat: no-repeat
+    }
+
+    .nft-new-banner-button-1 {
+        background-color: transparent;
+        color: #fff;
+        border: 1px solid #ffffff4d;
+        padding: 10px 16px;
+        border-radius: 12px;
+        animation: 1.4s ease-out infinite nftnewanim
+    }
+
+    .nft-new-text-2 {
+        font-size: 1rem;
+        margin-bottom: 30px
+    }
+
+    .nft-new-text-1 {
+        font-size: 5.4vw;
+        font-weight: 600
+    }
+
+    .top-binance-new-banner-6 .swiper {
+        padding-bottom: 90px !important
+    }
+
+    .top-binance-new-banner-6 .swiper-button-next,
+    .top-binance-new-banner-6 .swiper-button-prev {
+        top: auto;
+        bottom: 10px !important
+    }
+
+    .top-binance-new-banner-6 .swiper-button-prev {
+        left: 45%;
+        right: auto
+    }
+
+    .top-binance-new-banner-6 .swiper-button-next {
+        left: calc(46% + 50px);
+        right: auto
+    }
+
+    .hire-right-section p,
+    .new-banner-text-14,
+    .new-contact-form label,
+    .new-top-banner-section-10 .accordion,
+    .top-binance-new-banner-7 .card p,
+    .top-home-banner-section .swiper-button-next:after,
+    .top-home-banner-section .swiper-button-prev:after {
+        font-size: 12px
+    }
+
+    .top-binance-new-banner-7 .card {
+        border: 1px solid #ffffff9d;
+        background: 0 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        transition: 1s;
+        overflow: hidden;
+        font-size: 14px;
+        height: 100%
+    }
+
+    .top-binance-new-banner-7 .card:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: #f1dd67;
+        transform: translateX(-110%);
+        z-index: -9;
+        transition: transform 1s
+    }
+
+    .top-binance-new-banner-7 .card:hover {
+        color: #000
+    }
+
+    .top-binance-new-banner-2 .swiper-wrapper {
+        -webkit-transition-timing-function: linear !important;
+        transition-timing-function: linear !important
+    }
+
+    .top-binance-new-banner-2 img {
+        width: 180px
+    }
+
+    .binance-new-text-6,
+    .top-binance-new-banner-10 .accordion-button {
+        font-size: 10px
+    }
+
+    .top-binance-new-banner-10 ::-webkit-scrollbar-thumb {
+        background: gold;
+        border-radius: 10px
+    }
+
+    .top-binance-new-banner-10 .row {
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center
+    }
+
+    .top-binance-new-banner-9 .card {
+        border: 1px solid #ffffff9d;
+        background: 0 0;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        transition: 1s;
+        overflow: hidden
+    }
+
+    .binance-new-text-7 {
+        font-size: 14px;
+        width: 90%;
+        margin: auto
+    }
+
+    .new-top-banner-section-10,
+    .top-binance-new-banner-9 {
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+
+    .top-binance-new-banner-number-section {
+        font-size: 50px;
+        margin-bottom: 0;
+        font-weight: 700
+    }
+
+    .top-binance-new-banner-8 .card {
+        border: 2px solid #c085df9d;
+        background: 0 0;
+        border-radius: 14px;
+        padding: 20px
+    }
+
+    .top-binance-new-banner-6 .swiper-pagination-bullet-active:before {
+        content: "";
+        display: block;
+        outline: #fff solid 1px;
+        width: 18px;
+        height: 18px;
+        border-radius: 100%;
+        position: relative;
+        top: -3px;
+        left: -3px
+    }
+
+    .top-binance-new-banner-6 .swiper-pagination-bullet {
+        background: #fff;
+        width: 12px;
+        height: 12px;
+        opacity: 1 !important
+    }
+
+    .top-binance-new-banner-6 .swiper-slide img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 10px
+    }
+
+    .binance-new-text-5 {
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: center
+    }
+
+    .top-binance-new-banner-6 .swiper-slide {
+        background-color: #3a0b34;
+        padding: 30px 10px !important;
+        color: #fff;
+        transition: .25s ease-out;
+        border: 1px solid #9f879c;
+        border-radius: 10px;
+        backdrop-filter: blur(20px)
+    }
+
+    .top-binance-new-banner-6 .swiper-slide-active {
+        backdrop-filter: blur(0px) !important
+    }
+
+    .binance-new-social-icons-1,
+    .binance-new-social-icons-2 {
+        font-size: 30px;
+        background-color: #ffffff33;
+        backdrop-filter: blur(20px);
+        padding: 20px;
+        border: 1px solid #bebbae;
+        border-radius: 20px;
+        transform: rotateZ(-15deg);
+        position: relative;
+        top: 14px;
+        right: 10px;
+        transition: transform .2s
+    }
+
+    .binance-new-social-icons-section-1,
+    .binance-new-social-icons-section-2 {
+        border-radius: 20px;
+        transform: rotateZ(15deg);
+        box-shadow: 6px 0 10px #e4e4e46e;
+        top: -9px;
+        right: -10px;
+        transition: transform .2s;
+        position: relative
+    }
+
+    .binance-new-social-icons-section-1 {
+        background: linear-gradient(135deg, #4682eb -20%, #01beff 120%);
+        margin-right: 30px
+    }
+
+    .binance-new-social-icons-section-2 {
+        margin-right: 20px;
+        background: linear-gradient(135deg, #25d366 -20%, #6fe79b 120%)
+    }
+
+    .top-binance-new-banner-4 .swiper p {
+        text-align: center;
+        margin-bottom: 0;
+        font-size: 18px;
+        font-weight: 550;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif
+    }
+
+    .top-binance-new-banner-4 .swiper-slide {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        border: 1px solid #ffffff31;
+        border-radius: 4px;
+        background: rgba(255, 255, 255, .014);
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
+        backdrop-filter: blur(15px)
+    }
+
+    .binance-new-text-3 {
+        font-size: 2rem;
+        font-weight: 600;
+        margin-bottom: 20px
+    }
+
+    .top-binance-new-banner-2 {
+        padding-top: 10px !important;
+        background-color: #1d1d1d;
+        padding-bottom: 6px !important
+    }
+
+    .top-binance-new-banner-2 marquee a {
+        margin-right: 5vw
+    }
+
+    .navbar-brand img,
+    .top-binance-new-banner-2 marquee img {
+        width: 150px
+    }
+
+    .top-binance-new-button-1 .fa-door-open,
+    .top-binance-new-button-1:hover .fa-door-closed {
+        transition: .5s;
+        display: none
+    }
+
+    .top-binance-new-button-1 {
+        display: flex;
+        align-items: center;
+        background: linear-gradient(to right, gold, #ff8c00);
+        width: fit-content;
+        padding: 10px 20px;
+        border-radius: 12px;
+        color: #fff;
+        transition: .5s
+    }
+
+    .top-binance-new-button-1:hover {
+        transform: perspective(500px) rotateY(0)
+    }
+
+    .top-binance-new-button-1:hover .fa-door-open {
+        transition: .5s;
+        display: block
+    }
+
+    .binance-new-text-2 {
+        font-size: .9rem;
+        margin: auto
+    }
+
+    .binance-new-text-1 {
+        font-size: 2rem;
+        font-weight: 700
+    }
+
+    .service-image-1 {
+        border: 1px solid #ffffff5e;
+        padding: 20px 8px;
+        border-radius: 4px
+    }
+
+    .new-top-banner-section-3 img {
+        padding-top: 10%
+    }
+
+    #top-serivces-close,
+    #top-serivces-open {
+        cursor: pointer
+    }
+
+    #top-serivces-close,
+    .new-social-fixed-text-2 i,
+    .service-Custom-image-2,
+    .service-Custom-image-3,
+    .service-Custom-image-4,
+    .service-Custom-image-5,
+    .service-Custom-image-6,
+    .service-DApp-image-2,
+    .service-DApp-image-3,
+    .service-DApp-image-4,
+    .service-DApp-image-5,
+    .service-DApp-image-6,
+    .service-DApp-image-7,
+    .service-Metaverse-image-2,
+    .service-Metaverse-image-3,
+    .service-Metaverse-image-4,
+    .service-Metaverse-image-5,
+    .service-Metaverse-image-6,
+    .service-Tokenization-image-2,
+    .service-Tokenization-image-3,
+    .service-Tokenization-image-4,
+    .service-Tokenization-image-5,
+    .service-Tokenization-image-6,
+    .service-exchange-image-2,
+    .service-exchange-image-3,
+    .service-exchange-image-4,
+    .service-exchange-image-5,
+    .service-exchange-image-6,
+    .service-nft-image-2,
+    .service-nft-image-3,
+    .service-nft-image-4,
+    .service-nft-image-5,
+    .service-nft-image-6,
+    .service-nft-image-7 {
+        display: none
+    }
+
+    #top-serivces-close i,
+    #top-serivces-open i {
+        font-size: 14px;
+        margin-left: 5px;
+        position: relative;
+        top: 2px
+    }
+
+    .top-home-new-social-fixed-top-services {
+        padding-bottom: 20px;
+        border-bottom: 1px solid #ffffff33;
+        display: none
+    }
+
+    .top-social-fixed-border {
+        border-right: 1px solid #ffffff33;
+        margin-right: 20px
+    }
+
+    .top-home-new-social-fixed {
+        position: fixed;
+        bottom: 10px;
+        left: 0;
+        width: 100%;
+        z-index: 100;
+        background: rgba(0, 0, 0, .9);
+        border-bottom: 1px solid rgba(255, 255, 255, .048);
+        border-top: 1px solid rgba(255, 255, 255, .048);
+        border-radius: 12px;
+        padding: 10px 4px;
+        letter-spacing: 1px;
+        backdrop-filter: blur(20px)
+    }
+
+    .new-social-fixed-icon-1,
+    .new-social-fixed-icon-2 {
+        width: 28px;
+        height: 28px;
+        display: flex;
+        align-items: center;
+        margin-right: 2vw
+    }
+
+    .new-social-fixed-icon-1 {
+        background: #00a500;
+        border-radius: 50%;
+        justify-content: center;
+        border: none;
+        color: #eee;
+        cursor: pointer;
+        font-size: 14px
+    }
+
+    .new-social-fixed-icon-2 {
+        background: #3f9fb6;
+        border-radius: 50%;
+        justify-content: center;
+        border: none;
+        color: #eee;
+        cursor: pointer;
+        font-size: 14px
+    }
+
+    .new-social-fixed-icon-3,
+    .new-social-fixed-icon-4 {
+        width: 28px;
+        height: 28px;
+        align-items: center;
+        color: #eee;
+        font-size: 14px;
+        display: flex;
+        cursor: pointer
+    }
+
+    .new-social-fixed-icon-3 {
+        background: #2197d5;
+        border-radius: 50%;
+        justify-content: center;
+        border: none;
+        margin-right: 2vw
+    }
+
+    .new-social-fixed-icon-4 {
+        background: #d5214e;
+        border-radius: 50%;
+        justify-content: center;
+        border: none
+    }
+
+    .new-social-fixed-text-1 {
+        font-size: .7rem;
+        font-weight: 500;
+        cursor: pointer;
+        margin-right: 20px;
+        margin-left: 2px;
+        color: #fff
+    }
+
+    .new-social-fixed-text-2 {
+        font-size: .8rem;
+        font-weight: 500;
+        cursor: pointer;
+        color: #fff
+    }
+
+    .new-top-banner-section-11 {
+        background-image: url("../../../assets.clarisco.com/images/7598456_3704264-ai.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat
+    }
+
+    .contact-new-form-button {
+        font-size: 16px;
+        background-image: linear-gradient(to right, #cc6d68 0, #cc6d68 11%, #604499 100%);
+        color: #fff;
+        padding: 12px 18px;
+        border-radius: 50px;
+        border: 0
+    }
+
+    .form-control-new-contact,
+    .form-control-new-contact-2 {
+        display: block;
+        font-size: .84rem;
+        background-clip: padding-box
+    }
+
+    .contact-container-new-form .input-group-text,
+    .form-control-new-contact,
+    .form-control-new-contact-2 {
+        padding: .375rem .75rem;
+        font-weight: 400;
+        line-height: 1.5
+    }
+
+    .contact-new-form-button:hover i {
+        background-color: #722c75;
+        color: #fff
+    }
+
+    .contact-new-form-button i {
+        margin-left: 20px;
+        background-color: #bb90eb77;
+        color: #fff;
+        padding: 6px 8px;
+        border-radius: 50%
+    }
+
+    .contact-container-new-form .form-select,
+    .form-control-new-contact {
+        border: 0 solid #ced4da;
+        background-color: transparent;
+        box-shadow: none !important
+    }
+
+    .contact-container-new-form ::placeholder {
+        color: #fff !important
+    }
+
+    .contact-container-new-form input::-webkit-inner-spin-button,
+    .contact-container-new-form input::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0
+    }
+
+    .contact-container-new-form input[type=number] {
+        -moz-appearance: textfield
+    }
+
+    .contact-container-new-form .form-select {
+        color: #fff;
+        border-radius: 0;
+        font-size: .94rem;
+        background-image: url("https://assets.clarisco.com/images/slect-white-arrow.webp");
+        background-size: 14px
+    }
+
+    .contact-container-new-form option {
+        color: #000 !important
+    }
+
+    .contact-container-new-form .new-contact-form-section {
+        border-bottom: 1px solid #ffffff69;
+        margin-bottom: 30px
+    }
+
+    .contact-container-new-form .contact-container-new-form ::placeholder {
+        color: #fff !important
+    }
+
+    .form-control-new-contact {
+        width: 100%;
+        color: #fff;
+        border-radius: 0
+    }
+
+    .form-control-new-contact-2 {
+        color: #fff;
+        background-color: transparent;
+        border: 0 solid #ced4da;
+        border-radius: 0;
+        box-shadow: none !important
+    }
+
+    .form-control-new-contact-2:focus-visible {
+        border: none !important;
+        outline: 0 !important
+    }
+
+    .contact-container-new-form .form-control:focus {
+        color: #fff;
+        background-color: transparent
+    }
+
+    .contact-container-new-form .input-group-text {
+        display: flex;
+        align-items: center;
+        font-size: 1.3rem;
+        color: #fff;
+        text-align: center;
+        white-space: nowrap;
+        background-color: transparent;
+        border: 0 solid #ced4da;
+        border-radius: 0
+    }
+
+    .contact-container-new-form {
+        height: 100%;
+        background: rgba(255, 255, 255, .05);
+        box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+        border-bottom: 1px solid rgba(255, 255, 255, .1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
+        border-radius: 10px;
+        padding: 30px 10px;
+        letter-spacing: 1px;
+        text-decoration: none;
+        overflow: hidden;
+        color: #fff;
+        font-weight: 400px;
+        z-index: 1;
+        transition: .5s;
+        backdrop-filter: blur(15px)
+    }
+
+    .new-top-banner-section-5,
+    .new-top-banner-section-8 {
+        background-size: 40px 40px;
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+
+    .new-banner-3-image-2,
+    .testimonials-client-10,
+    .testimonials-client-12,
+    .testimonials-client-13,
+    .testimonials-client-2,
+    .testimonials-client-3,
+    .testimonials-client-4,
+    .testimonials-client-5,
+    .testimonials-client-6,
+    .testimonials-client-7,
+    .testimonials-client-8,
+    .testimonials-client-9 {
+        position: relative;
+        z-index: 99
+    }
+
+    .Industries-home-new-image {
+        height: 30vh;
+        width: auto;
+        display: none
+    }
+
+    .new-top-banner-section-8 .carousel-inner {
+        height: 400px
+    }
+
+    .faq-icon-styling {
+        font-size: 24px
+    }
+
+    .accordion-item {
+        padding-top: 8px;
+        padding-bottom: 8px
+    }
+
+    .new-top-banner-section-10 .accordion-button {
+        border-radius: 2px !important;
+        color: #fff;
+        padding: .6em !important;
+        background-color: transparent;
+        font-size: 12px;
+        box-shadow: none !important
+    }
+
+    .new-top-banner-section-10 .accordion-button:not(.collapsed) {
+        background: rgba(49, 49, 49, .1) !important;
+        -webkit-backdrop-filter: blur(0px) !important;
+        border-radius: 10px !important
+    }
+
+    .new-top-banner-section-10 .accordion-button:focus {
+        box-shadow: none;
+        outline: 0
+    }
+
+    .new-top-banner-section-10 .accordion-item {
+        border-radius: 2px !important;
+        background-color: transparent;
+        color: #fff;
+        box-shadow: none !important;
+        border-bottom: 1px solid #ffffff21
+    }
+
+    .new-top-banner-section-10 .accordion-body {
+        padding: 1.3em
+    }
+
+    .new-top-banner-section-10 .accordion-button:not(.collapsed)::after {
+        background-image: url("../../../assets.clarisco.com/images/banner/minus-faq.png") !important;
+        transform: rotate(-180deg)
+    }
+
+    .new-top-banner-section-10 .accordion-button::after {
+        flex-shrink: 0;
+        width: 1rem;
+        height: 1rem;
+        margin-left: auto;
+        content: "";
+        background-image: url("../../../assets.clarisco.com/images/banner/plus-faq.png") !important;
+        background-repeat: no-repeat;
+        background-size: 1rem;
+        transition: transform .2s ease-in-out
+    }
+
+    .new-top-banner-section-10 .accordion-button:not(.collapsed) {
+        color: #fff;
+        background-color: #e7f1ff;
+        box-shadow: none !important
+    }
+
+    .navbar-toggler {
+        padding: .25rem .75rem;
+        font-size: 1.25rem;
+        line-height: 1;
+        background-color: transparent;
+        color: #fff;
+        border: 1px solid #fff;
+        border-radius: .25rem;
+        transition: box-shadow .15s ease-in-out
+    }
+
+    .new-top-banner-section-8 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #201516 10%), linear-gradient(to right, #ffffff23, #ffffff23 10%, #201516 10%)
+    }
+
+    .top-home-banner-navbar-section a {
+        color: #fff;
+        text-decoration: none
+    }
+
+    .new-top-banner-section-5 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #17081f 10%), linear-gradient(to right, #ffffff18, #ffffff18 10%, #17081f 10%)
+    }
+
+    .new-top-banner-section-6 {
+        background-image: linear-gradient(to bottom, transparent, transparent 10%, #250620 10%), linear-gradient(to right, #ffffff23, #ffffff23 10%, #250620 10%);
+        background-size: 20px 20px;
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+
+    .new-top-banner-section-4,
+    .new-top-banner-section-7 .container-bg,
+    .new-top-banner-section-7 .three-d-banner-column,
+    .service-tab-hidden-section li {
+        background-repeat: no-repeat;
+        background-size: 100% 100%
+    }
+
+    .nav-tabs-left-border-section {
+        margin-top: 0
+    }
+
+    .service-image-1 img {
+        border-radius: 20px;
+        margin-bottom: 20px;
+        width: 50%
+    }
+
+    .services-crypto-list-active {
+        background-image: url("https://assets.clarisco.com/images/banner/services/services-list-ative.webp") !important
+    }
+
+    .services-Custom-list,
+    .services-DApp-list,
+    .services-Metaverse-list,
+    .services-NFT-list,
+    .services-Tokenization-list,
+    .services-crypto-list {
+        background-image: url("https://assets.clarisco.com/images/banner/services/services-list-inative.webp")
+    }
+
+    .service-tab-hidden-section li {
+        font-size: .75rem;
+        margin-bottom: .5rem;
+        font-weight: 500;
+        padding: 6px 14px;
+        list-style: none
+    }
+
+    .new-top-banner-section-4 .nav-pills .nav-link.active,
+    .new-top-banner-section-4 .nav-pills .show>.nav-link {
+        color: #fff !important;
+        background-color: transparent;
+        transform-origin: top center;
+        border-radius: 0
+    }
+
+    .new-top-banner-section-4 {
+        background-image: url("https://assets.clarisco.com/images/banner/new-top-banner-section-4-bg.webp")
+    }
+
+    .new-top-button-3-2 {
+        padding: 3px 10px;
+        background-color: #fff;
+        color: #000
+    }
+
+    .new-top-button-3-1 {
+        padding: 3px 10px;
+        color: red;
+        font-weight: 500;
+        position: relative;
+        top: 2px
+    }
+
+    .new-top-button-3 {
+        background-color: transparent;
+        color: #fff;
+        border: 1px solid #ffffff75;
+        font-size: 1.1rem;
+        border-radius: 4px;
+        font-family: "Bebas Neue", cursive
+    }
+
+    .footer-typo-new i {
+        margin-left: 8px !important;
+        color: #fff;
+        position: relative;
+        left: -6px;
+        opacity: 0;
+        transition: .2s
+    }
+
+    .footer-typo-new a:hover i,
+    .footer-typo-new p:hover i {
+        left: 2px;
+        opacity: 1
+    }
+
+    .footer-typo-new a,
+    .footer-typo-new p {
+        font-size: 14px;
+        width: fit-content;
+        transition: .2s;
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        color: #fff;
+        text-decoration: none;
+        margin-bottom: 4px;
+        opacity: .8
+    }
+
+    .footer-typo-new .footer-typo-head {
+        font-size: 1.2rem
+    }
+
+    .footer-logo-image img {
+        width: 60%
+    }
+
+    .new-top-banner-section-9 img {
+        width: 80%
+    }
+
+    .new-top-banner-section-7 img {
+        width: 3rem
+    }
+
+    .new-banner-text-16 {
+        font-size: 3rem;
+        margin: 20px 0;
+        font-weight: 600;
+        line-height: 3rem;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif
+    }
+
+    .new-banner-text-15 {
+        font-size: .9rem;
+        margin-bottom: 0;
+        font-weight: 600
+    }
+
+    .new-top-banner-section-7 .three-d-banner-column {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-position: center;
+        background-image: url("https://assets.clarisco.com/images/banner/green-group.webp");
+        background-color: transparent
+    }
+
+    .new-top-banner-section-7 .container-bg {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background-position: center;
+        background-image: url("https://assets.clarisco.com/images/banner/green-column-bg.webp");
+        background-color: transparent
+    }
+
+    .new-top-banner-section-7 .green-column-glass-effects {
+        padding: .5em;
+        border-radius: 1em;
+        background: rgba(58, 80, 73, .3);
+        backdrop-filter: blur(0.5px);
+        -webkit-backdrop-filter: blur(0.5px);
+        border: 1px solid rgba(255, 255, 255, .39)
+    }
+
+    .services-section-tab {
+        backdrop-filter: blur(16.4px);
+        background: #00d9ff00;
+        padding: 12px;
+        margin-bottom: 10px;
+        font-weight: 600;
+        color: #fff;
+        border-radius: 4px
+    }
+
+    .carousel-scroll-left-arrow,
+    .carousel-scroll-right-arrow {
+        font-size: 20px;
+        border: 1px solid #fff;
+        padding: 8px 12px;
+        border-radius: 50%;
+        cursor: pointer
+    }
+
+    .new-banner-text-13 {
+        font-size: 14px;
+        letter-spacing: 2px
+    }
+
+    .new-banner-text-12 {
+        font-size: 20px
+    }
+
+    .carousel-client-icon-1:before {
+        font-size: 1.3rem;
+        color: #009aff;
+        position: relative;
+        top: 30px;
+        background-color: #fff;
+        border-radius: 50px;
+        padding: 6px
+    }
+
+    .carousel-client-image {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%
+    }
+
+    .new-banner-text-11 {
+        font-size: 20px;
+        font-weight: 600
+    }
+
+    .testimonials-circle-1 {
+        width: 2.4rem;
+        height: 2.4rem;
+        background-color: #fd7105;
+        border-radius: 50%;
+        position: relative;
+        right: 6px;
+        top: 0
+    }
+
+    .new-banner-text-10 {
+        font-size: 1.6rem;
+        position: relative;
+        right: 32px;
+        margin-bottom: 10px
+    }
+
+    .testimonials-client-1,
+    .testimonials-client-11 {
+        position: relative;
+        top: -12vw;
+        right: -10vw;
+        z-index: 99
+    }
+
+    .new-top-banner-section-demo-4 .nav-link img,
+    .testimonials-client-1 img,
+    .testimonials-client-10 img,
+    .testimonials-client-11 img,
+    .testimonials-client-12 img,
+    .testimonials-client-5 img,
+    .testimonials-client-6 img,
+    .testimonials-client-7 img {
+        width: 3vw;
+        height: 3vw
+    }
+
+    .testimonials-client-2 {
+        top: -20vw;
+        right: -8vw
+    }
+
+    .testimonials-client-2 img {
+        width: 6vw;
+        height: 6vw
+    }
+
+    .testimonials-client-3 {
+        top: -2vw;
+        right: -14vw
+    }
+
+    .testimonials-client-3 img {
+        width: 7vw;
+        height: 7vw
+    }
+
+    .testimonials-client-4 {
+        top: -30vw;
+        right: 8vw
+    }
+
+    .testimonials-client-4 img,
+    .testimonials-client-8 img {
+        width: 4vw;
+        height: 4vw
+    }
+
+    .testimonials-client-5 {
+        top: -14vw;
+        right: 8vw
+    }
+
+    .testimonials-client-6 {
+        top: -31vw;
+        right: 14vw
+    }
+
+    .testimonials-client-7 {
+        top: -5vw;
+        right: -8vw
+    }
+
+    .testimonials-client-8 {
+        top: -1vw;
+        right: -8vw
+    }
+
+    .testimonials-client-9 {
+        top: -20vw;
+        right: 14vw
+    }
+
+    .testimonials-client-13 img,
+    .testimonials-client-9 img {
+        width: 2vw;
+        height: 2vw
+    }
+
+    .testimonials-client-10 {
+        top: 8vw;
+        right: 18vw
+    }
+
+    .testimonials-client-12 {
+        top: -12vw;
+        right: 4vw
+    }
+
+    .testimonials-client-13 {
+        top: 12vw;
+        right: 66vw
+    }
+
+    .testimonials-slide-client-button {
+        background-color: transparent;
+        border: none;
+        outline: 0 !important
+    }
+
+    .testimonials-slide-client-button img:hover {
+        transform: scale(1.4)
+    }
+
+    .testimonials-slide-client-button img {
+        border-radius: 50% !important;
+        border: 2px solid #fd700563;
+        transition: transform .2s
+    }
+
+    .testimonials-world-section {
+        background-image: url("https://assets.clarisco.com/images/banner/testimonials/map.webp");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top: 200px;
+        padding-bottom: 200px;
+        height: 400px
+    }
+
+    .new-top-banner-section-6 .swiper-slide:hover .scroller-no {
+        color: #f0c
+    }
+
+    .new-top-banner-section-6 .swiper-slide:hover .industries-slide-images {
+        background-color: #000
+    }
+
+    .scroller-no {
+        left: -35px;
+        bottom: 15%;
+        z-index: -9;
+        color: #f597e2;
+        line-height: 1;
+        font-size: 123px;
+        font-weight: 700;
+        position: absolute;
+        font-family: "Playfair Display";
+        -webkit-transition: .3s ease-in-out;
+        -o-transition: .3s ease-in-out;
+        transition: .3s ease-in-out
+    }
+
+    .new-banner-text-9 {
+        font-size: .75rem;
+        margin-bottom: 0
+    }
+
+    .new-banner-text-8 {
+        font-size: 1.2rem;
+        font-weight: 800;
+        margin-bottom: 0
+    }
+
+    .new-top-banner-section-6 .industries-slide-images {
+        width: 70px;
+        height: 70px;
+        margin-right: 10px;
+        padding: 10px;
+        line-height: 80px;
+        position: relative;
+        border-radius: 100%;
+        background-color: #f1f2fa;
+        -webkit-box-shadow: 0 13px 24px 0 rgba(43, 1, 68, .17);
+        box-shadow: 0 13px 24px 0 rgba(43, 1, 68, .17);
+        -webkit-transition: .3s ease-in-out;
+        -o-transition: .3s ease-in-out;
+        transition: .3s ease-in-out
+    }
+
+    .new-top-banner-section-6 .swiper {
+        width: 100%;
+        padding-right: 6%;
+        padding-left: 6%;
+        height: 300px
+    }
+
+    .new-top-banner-section-6 .swiper-slide {
+        height: 300px;
+        display: flex
+    }
+
+    .new-top-banner-section-6 .swiper-slide .slider-card-box-section {
+        display: flex;
+        background: #f8eefc;
+        color: #000;
+        align-items: center;
+        padding: 20px;
+        border-radius: 4px;
+        -webkit-box-shadow: 0 8px 9px 0 rgba(255, 255, 255, .15);
+        box-shadow: 0 8px 9px 0 rgba(255, 255, 255, .15)
+    }
+
+    .new-top-banner-section-6 .swiper-pagination-bullet {
+        width: 12px;
+        height: 12px;
+        background-color: #fff
+    }
+
+    .new-top-banner-section-6 .swiper-pagination-bullet-active {
+        height: 10vh;
+        border-radius: 12px;
+        background: #f597e2
+    }
+
+    .hire-right-section .card {
+        background: #4b305a85;
+        border: 1px solid #ffffff21;
+        border-radius: 4px;
+        transition: transform .2s
+    }
+
+    .hire-middle-section .nav-pills .nav-link.active,
+    .hire-middle-section .nav-pills .show>.nav-link {
+        color: #fff !important;
+        background-color: transparent;
+        background-image: url("https://assets.clarisco.com/images/banner/hire/hire-slide-active.webp");
+        background-size: 100% 100%
+    }
+
+    .hire-middle-section .nav-link {
+        padding-left: 30px !important;
+        text-align: start;
+        font-size: 14px;
+        color: #fff;
+        margin-bottom: 1vh;
+        padding: 10px 0
+    }
+
+    .arrows-top-tabs-change {
+        width: 24px;
+        margin-bottom: 20px
+    }
+
+    .hire-arrow-round-down-images {
+        width: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px
+    }
+
+    .new-banner-text-7 {
+        font-size: 3rem;
+        font-family: "Bebas Neue", cursive;
+        margin-bottom: 0
+    }
+
+    .slider-button-1,
+    .slider-text-1 {
+        font-family: Poppins;
+        font-weight: 800
+    }
+
+    .hire-left-section {
+        backdrop-filter: blur(33.4px);
+        background: #f4bcff1a;
+        border-radius: 12px
+    }
+
+    .get-demo-services-button {
+        background: 0 0;
+        border: 1px solid #fff;
+        color: #fff;
+        padding: 6px 14px;
+        border-radius: 4px
+    }
+
+    .nav-tabs-left-section {
+        width: 98%
+    }
+
+    .new-banner-text-6 {
+        font-size: 1.8rem
+    }
+
+    .new-banner-text-5 {
+        font-size: .9rem;
+        font-weight: 500
+    }
+
+    .new-top-banner-section-4 .nav-pills .nav-link.service-active-tabs-box .service-tab-hidden-section,
+    .top-home-banner-navbar-section .nav-pills .nav-link.active-mobile-tabs .mobile-dropdown-list-items {
+        display: block !important
+    }
+
+    .service-tab-hidden-section {
+        font-size: 13px;
+        display: none
+    }
+
+    .new-top-banner-section-4 .nav-pills .nav-link {
+        color: #fff;
+        text-align: left;
+        padding: 4px;
+        margin-bottom: 10px;
+        overflow: hidden
+    }
+
+    .top-banner-heading-1 {
+        font-size: 1.4rem;
+        margin-bottom: 20px !important
+    }
+
+    .new-top-banner-section-demo-4 .nav-link {
+        padding: 1rem !important;
+        background-color: #fff;
+        border-radius: 50%
+    }
+
+    #pills-service-tab-6-tab {
+        position: relative;
+        top: -16vw
+    }
+
+    .new-banner-text-4 {
+        font-size: 2.3vw
+    }
+
+    .new-banner-text-3 {
+        font-size: 5vw;
+        font-weight: 600;
+        margin-bottom: 40px
+    }
+
+    .new-banner-3-image-1 {
+        width: 70%;
+        position: relative;
+        z-index: 99
+    }
+
+    .new-top-banner-section-2 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background-color: #fff;
+        background-repeat: no-repeat;
+        color: #000
+    }
+
+    .new-top-banner-section-3-right-section {
+        background: rgba(38, 79, 192, .068);
+        backdrop-filter: blur(15px);
+        padding: 20px;
+        border-top: 1px solid rgba(255, 0, 0, .274)
+    }
+
+    .new-banner-text-1 {
+        font-size: 1.4rem;
+        font-weight: 500;
+        margin-bottom: 0
+    }
+
+    .new-banner-text-2 {
+        font-size: .8rem;
+        font-weight: 600;
+        margin-bottom: 0
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none
+    }
+
+    .top-home-banner-navbar-section .navbar {
+        background: center/cover no-repeat #000;
+        padding: 0 !important
+    }
+
+    .top-home-banner-navbar-section .dropdown_megamenu-section-1 .dropdown-menu {
+        backdrop-filter: blur(33.4px);
+        background: #2e2d2d34;
+        top: 100%;
+        right: -24rem !important;
+        left: auto !important;
+        margin-top: 0 !important
+    }
+
+    .top-home-banner-navbar-section .dropdown_megamenu-section-2 .dropdown-menu {
+        backdrop-filter: blur(33.4px);
+        background: #e6e5e534;
+        top: 100%;
+        right: -10rem !important;
+        left: auto !important;
+        margin-top: 0 !important
+    }
+
+    .dropdown_megamenu-content li {
+        list-style: none !important;
+        color: #fff;
+        font-size: 14px;
+        margin-bottom: 10px
+    }
+
+    .tab-content ul li {
+        list-style: none;
+        color: #fff;
+        font-size: 14px;
+        margin-bottom: 10px;
+        letter-spacing: .2px
+    }
+
+    .top-home-banner-navbar-section .nav-pills .nav-link {
+        backdrop-filter: blur(16.4px);
+        background: #53535300;
+        padding: 10px 12px;
+        margin-bottom: 8px;
+        font-weight: 600;
+        color: #fff
+    }
+
+    .top-home-banner-navbar-section .nav-pills .nav-link.active,
+    .top-home-banner-navbar-section .nav-pills .show>.nav-link {
+        color: #fff !important;
+        background-color: transparent
+    }
+
+    .mobile-dropdown-list-items a {
+        font-size: 12px;
+        font-weight: 400
+    }
+
+    .top-home-banner-navbar-section .navbar-light .navbar-nav .nav-link.active,
+    .top-home-banner-navbar-section .navbar-light .navbar-nav .show>.nav-link {
+        color: #fff !important
+    }
+
+    .top-nav-text-1 {
+        font-size: 14px;
+        font-weight: 500
+    }
+
+    .top-home-banner-navbar-section .navbar-mega-dropdown {
+        background: 0 0;
+        border: none;
+        color: #fff;
+        font-weight: 500;
+        text-transform: uppercase;
+        font-size: 13px;
+        padding-left: 0;
+        padding-bottom: 0;
+        padding-top: 0
+    }
+
+    .top-navbar-talk-experts-btn {
+        background-color: #378379;
+        color: #fff !important;
+        padding: 10px !important;
+        border-radius: 13px;
+        border: 0 solid;
+        font-size: 14px;
+        font-weight: 600;
+        margin-top: .8rem;
+        width: fit-content
+    }
+
+    .top-social-navlink {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin-right: 12px
+    }
+
+    .top-social-navlink img {
+        width: 30px;
+        height: 30px
+    }
+
+    .top-home-banner-navbar-section .navbar-nav .nav-item {
+        margin-left: .2vw
+    }
+
+    .top-navbar-navlink {
+        background: 0 0;
+        border: none;
+        color: #fff !important;
+        font-size: 13px;
+        font-weight: 500
+    }
+
+    .dropdown_megamenu-content-height-scroll {
+        border-right: 1px solid #a0a0a04d
+    }
+
+    .dropdown_megamenu-content,
+    .dropdown_megamenu-content-2 {
+        padding: 2px 3px
+    }
+
+    .floating-image-3-3 {
+        position: absolute;
+        top: 1vw;
+        left: 5vw;
+        width: 5vw !important;
+        height: auto !important
+    }
+
+    .floating-image-3-4 {
+        z-index: 1;
+        position: absolute;
+        top: 40vw;
+        right: 14vw;
+        width: 7vw !important;
+        height: auto !important
+    }
+
+    .floating-image-2-2,
+    .floating-image-2-3 {
+        top: 16vw;
+        height: auto !important;
+        position: absolute
+    }
+
+    .floating-image-2-3 {
+        right: 6vw;
+        width: 10vw !important
+    }
+
+    .floating-image-2-2 {
+        right: -6vw;
+        width: 6vw !important
+    }
+
+    .floating-image-1-2 img {
+        width: 60vw !important;
+        margin: auto;
+        position: relative;
+        left: -10px
+    }
+
+    .floating-image-1-1 img {
+        width: 42vw !important;
+        margin: auto;
+        position: relative;
+        left: -10px
+    }
+
+    .top-home-banner-section .swiper-button-next {
+        left: 14vw !important
+    }
+
+    .top-home-banner-section .swiper-button-prev {
+        left: 5vw !important
+    }
+
+    .top-home-banner-section .swiper-button-next,
+    .top-home-banner-section .swiper-button-prev {
+        border: 1px solid #fff;
+        height: 24px !important;
+        width: 24px !important;
+        border-radius: 50px;
+        outline: 0 !important;
+        position: absolute;
+        top: 52%;
+        width: calc(var(--swiper-navigation-size)/ 44 * 27);
+        height: var(--swiper-navigation-size);
+        margin-top: calc(0px - (var(--swiper-navigation-size)/ 2));
+        z-index: 10;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff !important
+    }
+
+    .swiper-slide-2 {
+        background-image: url("https://assets.clarisco.com/images/swiper-bg-2.webp");
+        background-size: 280% 100%
+    }
+
+    .swiper-slide-3 {
+        background-image: url("https://assets.clarisco.com/images/swiper-bg-5.webp");
+        background-size: 280% 100%
+    }
+
+    .swiper-slide-1 {
+        background-image: url("https://assets.clarisco.com/images/swiper-bg-1.webp");
+        background-size: 680% 100%
+    }
+
+    .slider-text-1 {
+        font-style: italic;
+        color: #fff;
+        line-height: 40px;
+        letter-spacing: 0;
+        font-size: 20px
+    }
+
+    .slider-text-2,
+    .slider-text-3 {
+        font-style: italic;
+        letter-spacing: -1px;
+        font-weight: 800
+    }
+
+    .slider-text-2 {
+        color: #fff;
+        line-height: 34px;
+        font-size: 34px
+    }
+
+    .slider-text-3 {
+        color: rgba(255, 255, 255, .8);
+        line-height: 50px;
+        font-size: 40px
+    }
+
+    .slider-button-1 {
+        background-color: rgba(0, 0, 0, 0);
+        cursor: pointer;
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        line-height: 40px;
+        letter-spacing: 0;
+        font-size: 18px;
+        border: 1px solid rgba(255, 255, 255, .35);
+        padding-left: 50px;
+        border-radius: 50px;
+        padding-right: 50px
+    }
+
+    .slider-text-4 {
+        color: rgba(255, 255, 255, .8);
+        line-height: 24px;
+        letter-spacing: 0;
+        font-weight: 400;
+        font-size: 16px;
+        width: 90%;
+        margin: auto
+    }
+
+    .banner-right-section {
+        position: relative;
+        z-index: 99;
+        left: 1vw
+    }
+
+    .banner-left-section {
+        position: relative;
+        z-index: 99;
+        top: 0
+    }
+
+    .floating-image-1 img {
+        width: 22vw !important;
+        margin: auto;
+        position: relative;
+        left: -10px
+    }
+
+    .floating-image-2 {
+        position: absolute;
+        right: 6vw;
+        top: 16vw;
+        width: 90px !important;
+        height: auto !important
+    }
+
+    .floating-image-3,
+    .floating-image-4 {
+        position: absolute;
+        width: 40px !important;
+        height: auto !important
+    }
+
+    .floating-image-3 {
+        top: 28vw;
+        left: 22vw
+    }
+
+    .floating-image-4 {
+        z-index: 1;
+        right: 36vw;
+        filter: blur(4px)
+    }
+
+    #contact-advertisement-close {
+        padding: 2px 5px;
+        font-size: 24px;
+        border-radius: 50%;
+        background-color: #fff;
+        position: relative;
+        bottom: -26px;
+        right: 2px;
+        color: #000;
+        cursor: pointer
+    }
+
+    .clarisco-contact-advertisement-section {
+        width: 36vw;
+        position: fixed;
+        bottom: 10px;
+        left: 10px;
+        z-index: 999
+    }
+}
+
+#captcha {
+    width: 70px;
+    text-align: center;
+    background: rgba(255, 255, 255, .05);
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    border-top: 1px solid rgba(255, 255, 255, .1);
+    border-radius: 10px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    overflow: hidden;
+    color: #fff;
+    font-weight: 400px;
+    z-index: 1;
+    transition: .5s
+}
+
+.captcha-verify {
+    font-size: 1.5rem
+}
+
+.captcha-lable {
+    font-size: 15px !important
+}
+
+.contact-container-new-form input[type=number] {
+    -moz-appearance: textfield
+}
+
+.contact-container-new-form .form-select {
+    color: #fff;
+    background-color: transparent;
+    border: 0 solid #ced4da;
+    border-radius: 0;
+    box-shadow: none !important;
+    font-size: .94rem;
+    background-image: url("https://assets.clarisco.com/images/slect-white-arrow.webp");
+    background-size: 14px
+}
+
+.contact-container-new-form .itemconditionmenu {
+    padding: 0;
+    font-size: .84rem;
+    width: 100px !important;
+    color: #fff;
+    background-color: transparent;
+    border: none;
+    outline: 0
+}
+
+.contact-container-new-form .new-contact-form-section span.country-name,
+.contact-container-new-form .new-contact-form-section span.iti__country-name,
+.contact-container-new-form option,
+.iti__country {
+    color: #000 !important
+}
+
+.contact-container-new-form .new-contact-form-section {
+    border-bottom: 1px solid #ffffff69;
+    margin-bottom: 30px
+}
+
+.contact-container-new-form .new-contact-form-section .iti__flag-container {
+    top: -3px !important
+}
+
+.contact-container-new-form .contact-container-new-form ::placeholder {
+    color: #fff !important
+}
+
+.top-home-banner-navbar-section .navbar-expand-lg .navbar-nav .dropdown.nav-link {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.timeline {
+    line-height: 1.4em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%
+}
+
+.timeline h1,
+.timeline h2,
+.timeline h3,
+.timeline h4,
+.timeline h5,
+.timeline h6 {
+    line-height: inherit
+}
+
+.timeline-item {
+    padding-left: 40px;
+    position: relative
+}
+
+.timeline-item:last-child {
+    padding-bottom: 0
+}
+
+.timeline-info {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin: 0 0 .5em;
+    text-transform: uppercase;
+    white-space: nowrap
+}
+
+.timeline-marker {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 15px
+}
+
+.timeline-marker:before {
+    background: #ffcf2a;
+    border: 3px solid transparent;
+    border-radius: 100%;
+    content: "";
+    display: block;
+    height: 15px;
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 15px;
+    transition: background .3s ease-in-out, border .3s ease-in-out
+}
+
+.timeline-marker:after {
+    content: "";
+    width: 3px;
+    background: #ccd5db;
+    display: block;
+    position: absolute;
+    top: 24px;
+    bottom: 0;
+    left: 6px
+}
+
+.timeline-item:last-child .timeline-marker:after {
+    content: none
+}
+
+.timeline-item:not(.period):hover .timeline-marker:before {
+    background: 0 0;
+    border: 3px solid #ffcf2a
+}
+
+.timeline-content {
+    padding-bottom: 40px
+}
+
+.timeline-content p:last-child {
+    margin-bottom: 0
+}
+
+.period {
+    padding: 0
+}
+
+.period .timeline-info,
+.spinner-border {
+    display: none
+}
+
+.period .timeline-marker:before {
+    background: 0 0;
+    content: "";
+    width: 15px;
+    height: auto;
+    border: none;
+    border-radius: 0;
+    top: 0;
+    bottom: 30px;
+    position: absolute;
+    border-top: 3px solid #ccd5db;
+    border-bottom: 3px solid #ccd5db
+}
+
+.period .timeline-marker:after {
+    content: "";
+    height: 32px;
+    top: auto
+}
+
+.period .timeline-content {
+    padding: 40px 0 70px
+}
+
+.period .timeline-title {
+    margin: 0
+}
+
+@media (min-width:768px) {
+
+    .timeline-centered .timeline,
+    .timeline-split .timeline {
+        display: table
+    }
+
+    .timeline-centered .timeline-item,
+    .timeline-split .timeline-item {
+        display: table-row;
+        padding: 0
+    }
+
+    .timeline-centered .period .timeline-info,
+    .timeline-centered .timeline-content,
+    .timeline-centered .timeline-info,
+    .timeline-centered .timeline-marker,
+    .timeline-split .period .timeline-info,
+    .timeline-split .timeline-content,
+    .timeline-split .timeline-info,
+    .timeline-split .timeline-marker {
+        display: table-cell;
+        vertical-align: top
+    }
+
+    .timeline-centered .timeline-marker,
+    .timeline-split .timeline-marker {
+        position: relative
+    }
+
+    .timeline-centered .timeline-content,
+    .timeline-split .timeline-content {
+        padding-left: 30px
+    }
+
+    .timeline-centered .timeline-info,
+    .timeline-split .timeline-info {
+        padding-right: 30px
+    }
+
+    .timeline-centered .period .timeline-title,
+    .timeline-split .period .timeline-title {
+        position: relative;
+        left: -45px
+    }
+
+    .timeline-steps .timeline-step:not(:last-child):after {
+        content: "";
+        display: block;
+        border-top: .25rem dotted #3b82f6;
+        width: 3.46rem;
+        position: absolute;
+        left: 7.5rem;
+        top: .3125rem
+    }
+
+    .timeline-steps .timeline-step:not(:first-child):before {
+        content: "";
+        display: block;
+        border-top: .25rem dotted #3b82f6;
+        width: 3.8125rem;
+        position: absolute;
+        right: 7.5rem;
+        top: .3125rem
+    }
+}
+
+@media (min-width:992px) {
+
+    .timeline-centered,
+    .timeline-centered .timeline-content,
+    .timeline-centered .timeline-info,
+    .timeline-centered .timeline-item,
+    .timeline-centered .timeline-marker {
+        display: block;
+        margin: 0;
+        padding: 0
+    }
+
+    .timeline-centered .timeline-item {
+        padding-bottom: 40px;
+        overflow: hidden
+    }
+
+    .timeline-centered .timeline-marker {
+        position: absolute;
+        left: 50%;
+        margin-left: -7.5px
+    }
+
+    .timeline-centered .timeline-content,
+    .timeline-centered .timeline-info {
+        width: 50%
+    }
+
+    .timeline-centered>.timeline-item:nth-child(2n) .timeline-content,
+    .timeline-centered>.timeline-item:nth-child(odd) .timeline-info {
+        float: left;
+        text-align: right;
+        padding-right: 30px
+    }
+
+    .timeline-centered>.timeline-item:nth-child(2n) .timeline-info,
+    .timeline-centered>.timeline-item:nth-child(odd) .timeline-content {
+        float: right;
+        text-align: left;
+        padding-left: 30px
+    }
+
+    .timeline-centered>.timeline-item.period .timeline-content {
+        float: none;
+        padding: 0;
+        width: 100%;
+        text-align: center
+    }
+
+    .timeline-centered .timeline-item.period {
+        padding: 50px 0 90px
+    }
+
+    .timeline-centered .period .timeline-marker:after {
+        height: 30px;
+        bottom: 0;
+        top: auto
+    }
+
+    .timeline-centered .period .timeline-title {
+        left: auto
+    }
+}
+
+.marker-outline .timeline-marker:before {
+    background: 0 0;
+    border-color: #c5b5b5
+}
+
+.marker-outline .timeline-item:hover .timeline-marker:before {
+    background: #ffcf2a
+}
+
+.timeline-steps {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap
+}
+
+.timeline-steps .timeline-step {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 1rem
+}
+
+.timeline-steps .timeline-content {
+    width: 10rem;
+    text-align: center
+}
+
+.timeline-steps .timeline-content .inner-circle {
+    border-radius: 1.5rem;
+    height: 1rem;
+    width: 1rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3b82f6
+}
+
+.timeline-steps .timeline-content .inner-circle:before {
+    content: "";
+    background-color: #3b82f6;
+    display: inline-block;
+    height: 3rem;
+    width: 3rem;
+    min-width: 3rem;
+    border-radius: 6.25rem;
+    opacity: .5
+}
+
+.main-timeline-new12 .timeline-new {
+    padding: 0 2px;
+    display: inline-block
+}
+
+.main-timeline-new12 .timeline-new-icon {
+    display: block;
+    text-align: center;
+    padding: 20px 0 55px;
+    z-index: 1;
+    position: relative
+}
+
+.main-timeline-new12 .timeline-new:nth-child(2n) .timeline-new-icon {
+    padding: 55px 0 20px
+}
+
+.main-timeline-new12 .timeline-new-icon:before {
+    content: "";
+    width: 1px;
+    height: 75%;
+    background: #ffcf2a;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    transition: .3s
+}
+
+.main-timeline-new12 .timeline-new:nth-child(2n) .timeline-new-icon:before {
+    bottom: auto;
+    top: 0
+}
+
+.main-timeline-new12 .timeline-new-icon i {
+    width: 40px !important;
+    height: 40px !important;
+    line-height: 40px !important;
+    border-radius: 50%;
+    background: #ffcf2a;
+    font-size: 19px;
+    color: #fff;
+    transition: .3s
+}
+
+.main-timeline-new12 .border {
+    height: 15px;
+    background: #ffcf2a;
+    margin-bottom: 0;
+    transition: .3s
+}
+
+.main-timeline-new12 .timeline-new:first-child .border {
+    border-radius: 4px 0 0 4px
+}
+
+.main-timeline-new12 .timeline-new:last-child .border {
+    border-radius: 0 4px 4px 0
+}
+
+.main-timeline-new12 .timeline-new-content {
+    padding: 15px;
+    background: #070707;
+    border-radius: 3px;
+    transition: .3s
+}
+
+.main-timeline-new12 .title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffcf2a;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    transition: .3s
+}
+
+.main-timeline-new12 .timeline-new-content .description {
+    font-size: 14px;
+    color: #fff;
+    margin: 0;
+    transition: .3s
+}
+
+@keyframes icon-load {
+    0% {
+        transform: rotate(-12deg)
+    }
+
+    8% {
+        transform: rotate(12deg)
+    }
+
+    10%,
+    28%,
+    30%,
+    48%,
+    50%,
+    68% {
+        transform: rotate(24deg)
+    }
+
+    18%,
+    20%,
+    38%,
+    40%,
+    58%,
+    60% {
+        transform: rotate(-24deg)
+    }
+
+    100%,
+    75% {
+        transform: rotate(0)
+    }
+}
+
+@media only screen and (max-width:990px) {
+    .main-timeline-new12 .timeline-new {
+        margin-bottom: 20px
+    }
+
+    .main-timeline-new12 .timeline-new-icon,
+    .main-timeline-new12 .timeline-new-icon i {
+        display: none !important
+    }
+
+    .main-timeline-new12 .border {
+        display: none
+    }
+
+    .main-timeline-new12 .timeline-new-content {
+        height: 100%;
+        border-radius: 4em !important
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .main-timeline-new12 .timeline-new-icon {
+        padding-top: 0
+    }
+
+    .main-timeline-new12 .timeline-new:nth-child(2n) .timeline-new-icon {
+        padding-bottom: 0
+    }
+
+    .main-timeline-new12 .border {
+        margin-bottom: 10px
+    }
+
+    .main-timeline-new12 .timeline-new-content {
+        text-align: center
+    }
+}
+
+.card {
+    background: #24242433;
+    border: 1px solid #ffffff21;
+    border-radius: 4px
+}
+
+.border-bottom-new-design {
+    border-bottom: 1px solid #1b1b1b
+}
+
+.border-top-new-design {
+    border-top: 1px solid #1b1b1b63
+}
+
+.accordion-button:not(.collapsed),
+.new-banner-contact-split-section-2 {
+    background: rgba(255, 255, 255, .05);
+    border: 1px solid rgba(255, 255, 255, .1)
+}
+
+.new-banner-contact-split-section {
+    background: rgba(255, 255, 255, .05);
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    border-top: 1px solid rgba(255, 255, 255, .1)
+}
+
+.accordion-item {
+    background-color: transparent;
+    border-bottom: 1px solid #ffffff21
+}
+
+.accordion-button {
+    background-color: transparent;
+    color: #fff;
+    box-shadow: none !important
+}
+
+.accordion-button:not(.collapsed) {
+    box-shadow: none !important;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, .3);
+    color: #fff
+}
+
+.new-footer-icons-design-1 {
+    color: #fff;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    padding: 8px 10px;
+    border-radius: 4px
+}
+
+.best {
+    font-size: 35px
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #000 !important;
+    background-color: #ffcf2a
+}
+
+.img-part {
+    width: 5%
+}
+
+.contact-form-new-section ::placeholder {
+    font-size: 14px !important
+}
+
+.country {
+    color: #000 !important;
+    padding: 0 !important
+}
+
+.form-item {
+    margin-bottom: -20px
+}
+
+.changing-centralizing-content,
+.read-more-fontfamily,
+.read-more-fontfamily span {
+    color: #fff !important
+}
+
+.read-more-fontfamily p,
+.read-more-fontfamily span {
+    font-size: 16px !important;
+    line-height: 2
+}
+
+.read-more-fontfamily a span {
+    text-decoration: underline !important;
+    color: #0050ff !important
+}
+
+.read-more-fontfamily h1 span {
+    font-size: 3rem !important;
+    line-height: 70px !important
+}
+
+@media all and (min-width:1200px) {
+    .top-nft-new-banner-3 .card-title {
+        margin-bottom: 16px
+    }
+
+    .site-banner-min-height-desktop {
+        height: 100vh
+    }
+}
+
+@media only screen and (max-width:1200px) and (min-width:992px) {
+    .top-nft-new-banner-2 {
+        padding-bottom: 100px !important
+    }
+
+    .top-nft-new-banner-3 .card-title {
+        margin-bottom: 14px
+    }
+
+    .top-nft-new-banner-5 .swiper-slide:before {
+        width: 116%
+    }
+
+    .top-nft-new-heading-2 {
+        font-size: .9rem;
+        width: 100%
+    }
+
+    .top-nft-new-banner-7 .card img {
+        top: -60px
+    }
+
+    .top-nft-new-banner-section .col-lg-8 {
+        position: relative;
+        top: 4vh
+    }
+
+    .site-banner-min-height-desktop {
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+
+    .top-home-banner-navbar-section .dropdown_megamenu-section-1 .dropdown-menu {
+        backdrop-filter: blur(33.4px);
+        background: #2e2d2d34;
+        top: 100%;
+        right: -40rem !important;
+        left: auto !important;
+        margin-top: 0 !important
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: .2rem;
+        padding-left: .2rem
+    }
+
+    .top-binance-new-banner-3 {
+        padding-top: 0
+    }
+
+    .top-binance-new-banner-6 .swiper-slide-active {
+        transform: scale(1) !important;
+        backdrop-filter: blur(0px) !important
+    }
+
+    .top-navbar-talk-experts-btn {
+        background-color: #378379;
+        color: #fff !important;
+        padding: 6px 4px !important;
+        border-radius: 13px;
+        border: 0 solid;
+        font-size: 12px;
+        font-weight: 500;
+        margin-top: .9rem
+    }
+
+    .top-home-banner-navbar-section .navbar-mega-dropdown {
+        background: 0 0;
+        border: none;
+        color: #fff;
+        font-weight: 500;
+        padding: 15px 3px;
+        text-transform: uppercase;
+        font-size: 12px
+    }
+
+    .top-home-new-social-fixed {
+        position: fixed;
+        bottom: 10px;
+        left: 0;
+        right: 0;
+        width: 1010px;
+        margin: auto;
+        z-index: 9999;
+        background: rgba(0, 0, 0, .397);
+        border-bottom: 1px solid rgba(255, 255, 255, .048);
+        border-top: 1px solid rgba(255, 255, 255, .048);
+        border-radius: 12px;
+        padding: 10px 4px;
+        letter-spacing: 1px;
+        backdrop-filter: blur(15px) contrast(60%);
+        -webkit-backdrop-filter: blur(15px) contrast(60%)
+    }
+
+    .new-social-fixed-text-1 {
+        font-size: .8rem;
+        font-weight: 500;
+        cursor: pointer;
+        margin-right: 10px;
+        margin-left: 4px;
+        color: #fff
+    }
+
+    .new-social-fixed-icon-1,
+    .new-social-fixed-icon-2,
+    .new-social-fixed-icon-3,
+    .new-social-fixed-icon-4 {
+        width: 28px;
+        height: 28px;
+        font-size: 18px
+    }
+}
+
+@-moz-document url-prefix() {
+    .scroller-no {
+        left: -45px
+    }
+
+    .nft-new-glow-bg-2,
+    .nft-new-glow-bg-3,
+    .nft-new-glow-bg-4,
+    .nft-new-glow-bg-5 {
+        opacity: .4 !important
+    }
+
+    .nft-new-glow-bg-1 {
+        opacity: .2 !important
+    }
+
+    .faq__body {
+        scrollbar-color: gold #000;
+        scrollbar-width: 4px
+    }
+
+    .nft-market-solution-button {
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+}
+
+.iti__country {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    outline: 0;
+    text-align: center;
+    justify-content: start
+}
+
+.art-tokenization-content,
+.private-blocking-content {
+    text-align: justify !important
+}
+
+@media (max-width:991px) {
+    .top-nft-new-banner-3 .card-title {
+        margin-bottom: 14px
+    }
+
+    .site-banner-min-height-desktop {
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+
+    .home-break-mobile-hide {
+        display: none
+    }
+
+    .accordion-button-title {
+        font-size: 12px !important
+    }
+
+    boxing-top-shadowing .section2-banner-content {
+        font-size: .8rem !important
+    }
+
+    .new-ourservice-text {
+        margin-left: auto
+    }
+
+    .frequent-top-head-content {
+        font-size: 7px !important
+    }
+
+    .Decentralization-Content-Designing,
+    .top-crypto-content-para,
+    .top-crypto-exchange-content,
+    .top-nft-content,
+    .top-p2p-content-rectifying {
+        text-align: justify !important
+    }
+
+    .background-holding-color {
+        background-color: rgba(0, 0, 0, .7)
+    }
+
+    .boxing-top-shadowing {
+        position: absolute;
+        top: 20%;
+        right: 28%;
+        width: 350px;
+        height: 350px;
+        border-radius: 50%;
+        filter: blur(140px);
+        z-index: -1 !important
+    }
+
+    .forward-image {
+        z-index: 1 !important
+    }
+
+    .next-top-level-content {
+        font-size: 13px !important
+    }
+
+    .cta-content-whole-items {
+        background-color: rgba(0, 0, 0, .1)
+    }
+
+    .cta-background-image-changing {
+        background-image: none !important;
+        background: #24242433;
+        border: 1px solid #ffffff21;
+        border-radius: 4px;
+        padding: 15px 0
+    }
+
+    .cta-background-child,
+    .cta-background-child-nxt {
+        background-image: none !important;
+        background: #24242433;
+        border: 1px solid #ffffff21;
+        border-radius: 4px
+    }
+}
+
+.country-select,
+.iti--show-flags {
+    display: flex !important;
+    align-items: center;
+    width: 90%
+}
+
+.new-contact-form-section-country .input-group-text {
+    width: 10%
+}
+
+.iti__dial-code {
+    color: #999 !important;
+    margin-left: auto !important
+}
+
+#message-error,
+#mob_phone-error {
+    right: 0;
+    position: absolute;
+    margin-left: auto !important
+}
+
+.spinning-rotator {
+    right: 90px !important;
+    top: 10px !important
+}
+
+@media (max-width:300px) {
+    .iti--show-flags {
+        padding-left: 10px
+    }
+
+    .iti__selected-flag {
+        margin-left: 10px
+    }
+}
+
+@media (max-width:991px) and (min-width:700px) {
+    .top-home-banner-section .min-vh-100 {
+        min-height: auto !important;
+        height: 800px;
+        padding-top: 100px;
+        padding-bottom: 100px
+    }
+
+    .slider-text-4 {
+        position: relative;
+        top: 30px
+    }
+}
+
+@media (max-width:550px) {
+    .cta-rside-heading-content {
+        font-size: 13px
+    }
+
+    .top-binance-new-banner-6 .swiper-button-prev {
+        left: 40%;
+        right: auto
+    }
+
+    .top-binance-new-banner-6 .swiper-button-next {
+        left: calc(41% + 50px);
+        right: auto
+    }
+}
+
+.cta-whole-content-1,
+.wazirx-faq-contents {
+    font-size: 16px
+}
+
+.blue-gray-scale-image {
+    filter: sepia(100%) hue-rotate(190deg) saturate(500%)
+}
+
+.frequent-top-head-content {
+    font-size: 16px;
+    font-weight: 400
+}
+
+.Elobrate-images {
+    width: 60px !important;
+    height: auto
+}
+
+.top-telegram-icons-1 {
+    font-size: 20px !important
+}
+
+.categories-lining-content::before,
+.widget-title-content-motion::before {
+    content: '';
+    height: 5px;
+    left: 0;
+    background-color: orange;
+    border-radius: 10px
+}
+
+.dot-blocking li,
+.dot-blocking-categories li {
+    list-style: none;
+    position: relative
+}
+
+.dot-blocking li::before {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px
+}
+
+.bullet-points-modifyed,
+.categories-lining-content,
+.widget-title-content-motion {
+    position: relative
+}
+
+.widget-title-content-motion::before {
+    position: absolute;
+    width: 19%;
+    bottom: 5px
+}
+
+.dot-blocking-categories li::before {
+    content: "";
+    position: absolute;
+    width: 6px;
+    height: 6px
+}
+
+.blog-new-card-column-box:first-child {
+    width: 100% !important
+}
+
+.top-blog-image-variable img {
+    object-fit: contain;
+    height: 100%
+}
+
+.Decent-Image-Top {
+    height: 400px
+}
+
+@media (max-width:1024px) {
+    .Decent-Image-Top {
+        height: 495px !important
+    }
+}
+
+.raribel-images-upgrade {
+    height: 500px
+}
+
+.custom-headimg {
+    background-image: url("https://assets.clarisco.com/images/centrailized-exchange/centralized-exchange-banner.webp");
+    padding-top: 50px !important
+}
+
+.custom-web-app-img {
+    background-image: url("https://assets.clarisco.com/images/web-app-custom-deve/web-app-custom-deve-banner.webp");
+    padding-top: 50px !important
+}
+
+@media (min-width:1024px) and (max-width:1180px) {
+    .custom-headingsize {
+        font-size: 25px !important
+    }
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+    .custom-centertheme {
+        top: -2vw !important;
+        right: 10vw !important;
+        width: 600px !important;
+        height: 600px !important
+    }
+
+    .custom-popular {
+        margin-top: 30px !important
+    }
+}
+
+@media (min-width:320px) and (max-width:600px) {
+    .custom-whitefilter {
+        right: 20% !important
+    }
+
+    .custom-popularfilter {
+        right: 0 !important;
+        top: 50% !important
+    }
+}
+
+.axieinfinity-images,
+.crypto-fullyimages,
+.custom-Dappimgs-width,
+.custom-exchangeimgs-width,
+.custom-img-width,
+.nba-top-shot-fullimages,
+.nftbinance-images,
+.pancakeimages-top-changed,
+.polkacity-defined-images,
+.solanart-top-fullyimages,
+custom-imgs-width {
+    height: 340px !important
+}
+
+.top-workflow-content {
+    width: 85%;
+    margin: 0 auto
+}
+
+.listed-groups-items {
+    background-color: transparent !important;
+    color: #fff !important
+}
+
+.next-arrow-buttons,
+.previou-arrow-buttons {
+    transition: .5s
+}
+
+.previou-arrow-buttons:hover .article-arrow-moving {
+    transform: translateX(-14px);
+    transition: .5s
+}
+
+.next-arrow-buttons:hover .next-article-arrow-moving {
+    transform: translateX(14px);
+    transition: .5s
+}
+
+.top-uniswap-content {
+    width: 83%;
+    margin: 0 auto
+}
+
+.Remitano-top-content {
+    width: 90%;
+    margin: 0 auto
+}
+
+.blink_text_trending {
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite
+}
+
+@keyframes blinker {
+
+    0%,
+    100% {
+        opacity: 1
+    }
+
+    50% {
+        opacity: 0
+    }
+}
+
+@media (max-width:560px) {
+
+    .next-altering-button,
+    .previous-altering-button {
+        padding: 5px 15px !important;
+        font-size: 10px
+    }
+}
+
+.custom-banneri,
+.custom-defirightsshow,
+.custom-headimgs,
+.custom-headimgss,
+.custom-lableimg,
+.custom-rightdevelop,
+.custom-white-image,
+.decentralize-exchange-whole-content {
+    padding-top: 50px !important
+}
+
+@media (min-width:991px) {
+    .second-previous-contents {
+        font-size: 16px !important
+    }
+}
+
+.read-more-fontfamily h3 span {
+    font-size: 1.2rem !important;
+    line-height: 1px
+}
+
+.stodevelopment-images {
+    height: 360px
+}
+
+.fa-diamond {
+    position: absolute;
+    color: orange;
+    left: -21px;
+    font-size: 12px;
+    top: 5px
+}
+
+.categories-lining-content::before {
+    position: absolute;
+    width: 21%;
+    bottom: -8px
+}
+
+.custom-headimgs {
+    background-image: url("https://assets.clarisco.com/clarisco+images/defi-crupto-exchange/Defi-landing-banner.webp")
+}
+
+@media (min-width:320px) and (max-width:712px) {
+    .custom-clanbackground {
+        top: -30vw !important
+    }
+
+    .custom-smart-background {
+        top: 32% !important;
+        right: 80px !important
+    }
+
+    .custom-smart-backgrounds {
+        top: 34% !important;
+        right: 80px !important
+    }
+
+    .custom-boxfull-size {
+        max-width: 100% !important
+    }
+}
+
+@media (min-width:712px) and (max-width:991px) {
+
+    .custom-full,
+    .custom-full-size {
+        max-width: 100% !important
+    }
+
+    .custom-clanbackground {
+        right: 17vw !important
+    }
+
+    .custom-img-boxsize {
+        width: 150px !important;
+        height: 150px !important
+    }
+
+    .custom-smart-background {
+        top: 29% !important;
+        right: 80px !important
+    }
+
+    .custom-smart-backgrounds {
+        top: 34% !important;
+        right: 80px !important
+    }
+
+    .custom-swiper {
+        height: 200px !important
+    }
+
+    .custom-fulls {
+        width: 50% !important
+    }
+}
+
+@media (min-width:1024px) and (max-width:1100px) {
+    .custom-our-background {
+        top: 40% !important;
+        right: 35% !important
+    }
+
+    .custom-smart-background,
+    .custom-smart-backgrounds {
+        top: -10% !important;
+        right: 19% !important;
+        height: 300px !important
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .custom-defibackground {
+        top: 16vw !important;
+        right: 17vw !important;
+        width: 500px !important;
+        height: 500px !important
+    }
+
+    .custom-whiteunfont {
+        font-size: 30px !important
+    }
+
+    .custom-clanbackground {
+        top: -8vw !important;
+        right: 9vw !important;
+        width: 500px !important;
+        height: 500px !important
+    }
+}
+
+.custom-headimgss {
+    background-image: url("https://assets.clarisco.com/clarisco+images/wazirx/wazirx/webp/landing-banner.webp")
+}
+
+.custom-btns {
+    color: #fff;
+    border: 0 !important;
+    font-size: 23px
+}
+
+:hover.custom-btns {
+    color: #fff;
+    border: 0 !important
+}
+
+.custom-btns.active {
+    color: hwb(185.55deg 4.78% 14.74%) !important;
+    background-color: transparent !important;
+    border: 0 !important
+}
+
+.custom-banneri {
+    background-image: url("https://assets.clarisco.com/clarisco+images/paxful/paxful/webp/landing-banner1.webp")
+}
+
+@media (min-width:2560px) {
+    .custom-cexaround {
+        max-width: 100% !important
+    }
+
+    .custom-centertheme {
+        top: 7vw !important;
+        right: 6vw !important;
+        width: 70% !important;
+        height: 70% !important
+    }
+
+    .custom-background-color {
+        top: 0 !important
+    }
+
+    .custom-background-style {
+        right: 4vw !important
+    }
+}
+
+.popular-defi-token-contents {
+    width: 80% !important;
+    margin: 0 auto !important
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .Decentering-all-content {
+        display: flex !important;
+        justify-content: space-around !important;
+        align-items: center !important
+    }
+}
+
+.wazirx-back-color-section {
+    position: absolute;
+    top: 45%;
+    right: 36%;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    filter: blur(240px);
+    z-index: 0
+}
+
+.tokenization-defining-content {
+    width: 80% !important;
+    margin: 0 auto
+}
+
+.new-scrolling-section {
+    overflow: scroll !important;
+    max-height: 400px !important
+}
+
+.mlm-software-image-size {
+    height: 170px !important
+}
+
+@media(max-width:800px) {
+    .wazirx-background-coloring {
+        background-color: #6f42c1;
+        top: -1vw;
+        right: 22vw !important;
+        width: 250px;
+        height: 300px;
+        filter: blur(50px)
+    }
+}
+
+@media(max-width:768px) {
+    .wazirx-third-crypto-exchange {
+        background-color: #873f94 !important;
+        filter: blur(100px);
+        top: 30% !important;
+        right: 28% !important;
+        width: 300px;
+        height: 300px
+    }
+
+    .wazirx-backside-designing {
+        background-color: #00f !important;
+        filter: blur(150px);
+        top: 39% !important;
+        right: 18% !important;
+        width: 600px !important
+    }
+}
+
+.paxful-valued-content-crypto {
+    font-size: 32PX !important
+}
+
+.trending-post-section {
+    position: sticky !important;
+    top: 20%
+}
+
+@media (min-width:567px) and (max-width:991px) {
+    .custom-webcover {
+        max-width: 100% !important
+    }
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .custom-headreduce {
+        font-size: 19px !important
+    }
+}
+
+@media (min-width:1023px) and (max-width:1366px) {
+    .block-content-second {
+        padding: 0 10px !important
+    }
+
+    .block-content-third {
+        padding: 0 12px !important
+    }
+}
+
+@media (min-width:800px) and (max-width:1280px) {
+    .decentralizing-content-determining {
+        display: flex !important;
+        flex-direction: column !important
+    }
+}
+
+.coinbase-clone {
+    background-image: url("https://assets.clarisco.com/images/coinbase-images/coinbase-clone-img-1.webp");
+    background-size: cover
+}
+
+@media (max-width:768px) {
+
+    .Common-Use-Cases-content,
+    .decentralize-finance-nxt-content,
+    .defi-tokens-child-content {
+        text-align: justify !important
+    }
+
+    .defi-icons-content {
+        font-size: 15px !important
+    }
+
+    .decentralized-top-changing-content {
+        padding-top: 4% !important
+    }
+
+    .nft-new-changing-color {
+        background-color: #6610f2 !important;
+        filter: blur(165px);
+        top: 45% !important;
+        right: 7% !important
+    }
+}
+
+.custom-lableimg {
+    background-image: url("https://assets.clarisco.com/images/whitelabel-nft-new/images-new/Rectangle-435.webp")
+}
+
+.coinbase-img-1 img {
+    background-repeat: no-repeat !important;
+    background-position: center !important
+}
+
+.coinbase-back-coloring {
+    position: absolute;
+    top: 46%;
+    right: 25%;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    filter: blur(240px);
+    z-index: 0
+}
+
+.coinbase-alter-1 {
+    background-color: #873f94;
+    filter: blur(100px);
+    top: 33%;
+    right: 0 !important;
+    width: 300px;
+    height: 300px
+}
+
+@media(min-width:1024px) and (max-width:1366px) {
+    .clone-small-view {
+        margin-top: 65px !important
+    }
+}
+
+@media(max-width:991px) {
+    .nft-marketplace-polacity-content {
+        text-align: justify !important
+    }
+
+    .coinbase-Mview-part {
+        margin-top: 6% !important;
+        width: 100% !important
+    }
+
+    .getting-coin-base {
+        background-color: #002147 !important
+    }
+}
+
+.custom-white-image {
+    background-image: url("https://assets.clarisco.com/images/whitelabel-nft-new/images-new/white-label-new-banner-2.webp")
+}
+
+@media (min-width:320px) and (max-width:1440px) {
+
+    .custom-smart-backgroundhide,
+    .custom-smart-backgroundon {
+        right: 30% !important
+    }
+}
+
+@media (min-width:820px) and (max-width:1024px) {
+    .custom-smart-backgroundthem {
+        right: 11% !important
+    }
+}
+
+.closing-articles {
+    position: absolute;
+    top: 2%;
+    right: 2%
+}
+
+.custom-defirightsshow {
+    background-image: url("https://assets.clarisco.com/clarisco+images/defi/deFi-smart-contract-development-services/defi-smart-contract-landing-banner-1.webp")
+}
+
+.dft-defi-smart-images {
+    width: 300px;
+    height: 300px;
+    padding-right: 200px !important
+}
+
+@media (max-width:1023px) {
+
+    .custom-banneri,
+    .custom-defirightsshow,
+    .custom-headimg,
+    .custom-headimgs,
+    .custom-rightdevelop,
+    .custom-white-image {
+        background-image: none !important;
+        background-color: #17081f !important
+    }
+
+    .custom-web-app-img {
+        background-image: none !important;
+        background-color: #131937 !important
+    }
+
+    .customs-straight-lining {
+        flex-direction: column
+    }
+
+    .custom-full {
+        width: 100% !important
+    }
+
+    .custom-box {
+        width: 100%
+    }
+
+    .custom-rightwhite {
+        margin-top: 20px
+    }
+
+    .custom-topbackground {
+        right: 0 !important
+    }
+}
+
+.smart-card-head .card {
+    padding: 0 !important
+}
+
+.defi-smart-whole-content {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important
+}
+
+.smart-card-para {
+    font-size: 12px
+}
+
+.custom-rightdevelop {
+    background-image: url("https://assets.clarisco.com/images/Blockchain-Consulting-new/landing-banner.webp");
+    padding-top: 50px !important
+}
+
+@media (max-width:1023px) {
+    .custom-rightdevelop {
+        background-image: none !important;
+        background-color: #042034 !important
+    }
+
+    .custom-full {
+        width: 100% !important
+    }
+
+    .custom-box {
+        width: 100%
+    }
+
+    .custom-rightwhite {
+        margin-top: 20px
+    }
+
+    .custom-topbackground {
+        right: 0 !important
+    }
+
+    .custom-boxfull-size {
+        max-width: 100%
+    }
+}
+
+@media (min-width:320px) and (max-width:720px) {
+
+    .custom-boxfull-size h2,
+    .custom-rightwhite h1 {
+        font-size: 20px !important
+    }
+}
+
+@media (min-width:1024px) and (max-width:1120px) {
+    .custom-partsystem {
+        padding: 10px !important
+    }
+
+    .custom-bottom-font {
+        padding: 0 !important
+    }
+
+    .custom-boxfull-size h2,
+    .custom-rightwhite h1 {
+        font-size: 35px !important
+    }
+}
+
+.defi-font-content {
+    font-weight: 400 !important
+}
+
+.token-child {
+    height: 330px;
+    border: 0
+}
+
+.top-fulloffer-tokens img {
+    width: 100%;
+    height: 100%;
+    border: 0
+}
+
+@media all and (min-width:992px) {
+    #contact-advertisement-close {
+        padding: 2px 7px;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: #fff;
+        position: relative;
+        bottom: -36px;
+        right: 2px;
+        color: #000;
+        cursor: pointer
+    }
+
+    .clarisco-contact-advertisement-section {
+        width: 22vw;
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        z-index: 999
+    }
+
+    .top-offers-token {
+        position: fixed;
+        bottom: 12%;
+        z-index: 999;
+        border: 0
+    }
+
+    .top-50-offer-tokens {
+        position: absolute;
+        width: 150px;
+        height: auto;
+        bottom: 10px;
+        left: 0;
+        border: 0
+    }
+
+    .top-offers-token-overrall {
+        display: none
+    }
+
+    .child-arrow-section {
+        width: 40px;
+        height: 40px;
+        color: orange;
+        display: flex;
+        margin-left: auto;
+        font-size: 20px;
+        background-color: #fff;
+        border-radius: 50%;
+        border: 0;
+        margin-right: 0;
+        margin-bottom: -40px;
+        cursor: pointer;
+        position: relative;
+        z-index: 9999
+    }
+
+    .top-fulloffer-tokens {
+        width: 14vw;
+        height: auto;
+        bottom: 70px;
+        position: fixed
+    }
+}
+
+@media (max-width:991px) {
+
+    .binance-nft-top-new-content,
+    .bsc-clone-content,
+    .custom-center,
+    .custom-centerpoint,
+    .custom-centerpoints,
+    .custom-centers,
+    .custom-medium,
+    .defi-smart-controling-company,
+    .polkacity-content-changing,
+    .real-estate-token-content,
+    .sto-development-content,
+    .tokenization-defining-content,
+    .top-block-consulting-content,
+    .top-change-raribel-content,
+    .top-metaverse-content,
+    .top-solar-content,
+    .top-uniswap-content {
+        text-align: justify !important
+    }
+
+    .top-solar-heading {
+        text-align: center !important
+    }
+
+    .custom-card,
+    .custom-card-center,
+    .custom-card-centers,
+    .custom-singlecard-centers {
+        width: 100% !important
+    }
+
+    .full-top-size-containers {
+        max-width: 100% !important
+    }
+
+    .custom-imghide {
+        background-image: none !important
+    }
+
+    .tawk-min-container .tawk-button-circle.tawk-button-large {
+        height: 43px;
+        width: 42px
+    }
+
+    .step-by-step-content {
+        font-size: 11px !important
+    }
+
+    .step-by-step-child-content {
+        font-size: 10px !important
+    }
+
+    .wazirx-clone-altering-content {
+        width: 92% !important;
+        margin: 10px auto
+    }
+
+    .block-red-spread {
+        position: absolute !important;
+        background-color: #6610f2;
+        top: 37% !important;
+        right: 14% !important;
+        width: 300px !important;
+        height: 300px !important;
+        border-radius: 50% !important;
+        filter: blur(165px) !important;
+        z-index: 0 !important
+    }
+
+    .coinbase-clone {
+        background-image: none
+    }
+
+    .coining-base-content {
+        font-size: 24px !important
+    }
+
+    .top-50-offer-tokens {
+        width: 120px;
+        height: auto;
+        margin-top: -70px;
+        left: 0;
+        border: 0;
+        position: fixed;
+        bottom: 20px;
+        z-index: 999
+    }
+
+    .top-offers-token-overrall {
+        display: none
+    }
+
+    .child-arrow-section {
+        width: 30px;
+        height: 30px;
+        color: orange;
+        display: flex;
+        margin-left: auto;
+        font-size: 20px;
+        background-color: #fff;
+        border-radius: 50%;
+        border: 0;
+        margin-right: 0;
+        margin-bottom: -35px;
+        cursor: pointer
+    }
+
+    .top-fulloffer-tokens {
+        width: 180px;
+        height: auto;
+        bottom: 70px;
+        position: fixed;
+        z-index: 999
+    }
+}
+
+.top-50-offer-tokens {
+    display: inline-block;
+    animation: 1s ease-in-out infinite upDown;
+    border: 0
+}
+
+@keyframes upDown {
+
+    0%,
+    100% {
+        transform: translateY(0)
+    }
+
+    50% {
+        transform: translateY(-10px)
+    }
+}
+
+.top-fulloffer-tokens {
+    display: inline-block;
+    animation: 1.2s 3 shake
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateY(0)
+    }
+
+    25%,
+    75% {
+        transform: translateY(-5px)
+    }
+
+    50% {
+        transform: translateY(5px)
+    }
+}
+
+.snow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    pointer-events: none
+}
+
+  /* <<<<<<<<<<<praveen>>>>>>>>> */
+  .modal-top-1{
+    background-color: #000;
+    /* background: rgba(255, 255, 255, .05); */
+  }
+  .model-request{
+    background-color: rgb(85 85 85 / 93%);
+    height: 72px;
+    margin-bottom: 30px;
+  }
+  .profile-image-1{
+    border:0px solid red;
+    text-align: center;
+    position: absolute;
+    top: -75px;
+    left: 50%;
+    margin-left: -45px;
+  }
+  .profile-image-1 img{
+    border: 5px solid white;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-color: #000;
+    padding: 10px;
+  }
+  .modal-body-1{
+    color: black;
+  }
+  .modal-body-1 p{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    padding:0px 50px;
+  }
+  .label-color-1{
+    color: white;
+    font-size: 12px;
+  }
+  .modal-form{
+    /* background-color:rgb(85 85 85 / 93%) ; */
+    background: rgba(255, 255, 255, .05);
+    border: 1px solid rgba(255, 255, 255, .05);
+    color: white;
+  }
+  .modal-form:focus {
+    background: rgba(255, 255, 255, .05);
+    border: 1px solid rgba(255, 255, 255, .05);
+    box-shadow: 0 0 0 0.25rem rgb(60 72 90 / 25%);
+    color: white;
+  }
+  .form-text-1{
+    font-size: 12px;
+    color: white;
+  }
+  .model-button{
+    background-color:rgb(85 85 85 / 93%) ;
+    width: 150px;
+    height: 50px;
+    border: 0px;
+  }
+  .modal-close{
+    background-image: none !important;
+    font-size: 25px;
+  }
+  /* <<<<<<<<<<<<<<<end>>>>>>>>> */

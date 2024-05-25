@@ -1,0 +1,230 @@
+.breadcrumb-portfolio h1 {
+  font-weight: 700 !important;
+  font-size: 3.5vw;
+}
+.crypto-form  .loader-button{
+    align-items: center;
+}
+.crypto-form  .spinner-border {
+    width: 1rem;
+    height: 1rem;
+    margin-left: 5px;
+  }
+/* .crypto-form .modal-body .new-contact-form{
+    margin-bottom: 40px;
+} */
+.binance-platform h4{
+    font-weight: 700 !important;
+}
+.binance-platform {
+    padding-top: 0px;
+    /* background-color: #0D0128; */
+    background-color: #000;
+    padding-bottom: 60px;
+}
+.binance-platform  .token-main-container {
+    margin-bottom: 15px;
+}
+.binance-platform  .col-lg-6 .Glow-effect-7 p{
+    text-align: justify;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.breadcrumb-portfolio{
+    padding-top: 100px;
+    /* background-color: #0D0128; */
+    background-color: #000;
+    padding-bottom: 20px;
+}
+.breadcrumb-portfolio ol>li {
+  font-weight: 500;
+  font-size: 16px;
+}
+.features-list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0px;
+}
+.features-list li {
+  position: relative;
+  margin-bottom: 15px;
+  width: 48%;
+  padding-left: 16px;
+  margin-right: 9px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.features-list li::before {
+    content: '\f061';
+    position: absolute;
+    font-family: 'fontAwesome';
+    left: -5%;
+}
+.features-list-2{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0px;
+}
+.features-list-2 li {
+    position: relative;
+    margin-bottom: 15px;
+    width: 100%;
+    padding-left: 16px;
+    margin-right: 10px;
+    font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.features-list-2 li::before {
+    content: '\f061';
+    position: absolute;
+    font-family: 'fontAwesome';
+    left: -2%;
+}
+.crypto-form .new-top-banner-section-11 {
+    background-image:none;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #0D0128;
+}
+.crypto-form .contact-container-new-form {
+    background: #4b305a85;
+    margin: 0;
+}
+.crypto-form .modal-body {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 0;
+}
+.crypto-form .btn-close {
+    background: url("https://assets.clarisco.com/clarisco+images/portfolio-images/close-btn.svg") center/15px no-repeat;
+    opacity: 1;
+    z-index: 1;
+    position: absolute;
+    right: 4%;
+    top: 5%;
+}
+.crypto-form .modal-header {
+    padding: 12px;
+    border-bottom: 0px solid #dee2e6;
+    background-color: #0D0128;
+}
+.crypto-form .contact-new-form-button {
+    font-size: 16px;
+    background-image: linear-gradient(95deg, #4C32FE -15.91%, #D931FD 79.73%);
+    color: #fff;
+    padding: 12px 18px;
+    border-radius: 50px;
+    border: 0px;
+}
+.features-list.features-list-3 li {
+    width: 47%;
+}
+/* buttons */
+.custom-btn-portfolio {
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    /* padding: 10px 25px; */
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+     box-shadow:none;
+     background: linear-gradient(95deg, #D931FD -15.91%, #4C32FE 79.73%);
+    outline: none;
+    border-radius: 50px;
+    transition: all 1s ease-out;
+  }
+  .custom-btn-portfolio:hover i{
+    margin-left: 15px !important;
+    transition: all .5s ease-out;
+  }
+.btn-3-portfolio {
+    /* background: rgb(0,172,238); */
+    background: linear-gradient(95deg, #D931FD -15.91%, #4C32FE 79.73%);
+    width: 130px;
+    height: 40px;
+    line-height: 42px;
+    /* padding: 0; */
+    border: none;
+    transition: all .5s ease-out;
+    
+  }
+  .btn-3-portfolio span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  .btn-3-portfolio:before,
+  .btn-3-portfolio:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+     /* background: #D931FD; */
+     background: transparent;
+    /* transition: all 0.3s ease; */
+    /* border-radius: 5px; */
+    transition: all 1s ease-out;
+  }
+  .btn-3-portfolio:before {
+    height: 0%;
+    width: 2px;
+  }
+  .btn-3-portfolio:after {
+    width: 0%;
+    height: 2px;
+  }
+  .btn-3-portfolio:hover{
+     background: transparent;
+    box-shadow: none;
+  }
+  .btn-3-portfolio:hover:before {
+    height: 100%;
+  }
+  .btn-3-portfolio:hover:after {
+    width: 100%;
+  }
+  .btn-3-portfolio span:hover{
+     color: #fff;
+  }
+  .btn-3-portfolio span:before,
+  .btn-3-portfolio span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+     /* background: #4C32FE; */
+     background: transparent;
+    /* transition: all 0.3s ease; */
+    transition: all 1s ease-out;
+  }
+  .btn-3-portfolio span:before {
+    width: 2px;
+    height: 0%;
+  }
+  .btn-3-portfolio span:after {
+    width: 0%;
+    height: 2px;
+  }
+  .btn-3-portfolio span:hover:before {
+    height: 100%;
+  }
+  .btn-3-portfolio span:hover:after {
+    width: 100%;
+  }
+  @media (min-width:992px) {
+    .crypto-form .modal .col-lg-12:nth-of-type(2){
+      padding-bottom: 2rem;
+    }
+  }
